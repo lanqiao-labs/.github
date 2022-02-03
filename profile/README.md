@@ -5,9 +5,9 @@
 ### 最新课程
 
 <!-- SYL:START -->
-- [uni-app 新手入门](https://www.lanqiao.cn/courses/7763/)
-- [Apache Log4j 2 远程代码执行漏洞详解](https://www.lanqiao.cn/courses/7635/)
-- [Agora 声⽹在线项⽬实训课](https://www.lanqiao.cn/courses/5848/)
+- [Effective Java 中文版（第 3 版）](https://www.lanqiao.cn/courses/3483/)
+- [微信公众号开发入门](https://www.lanqiao.cn/courses/4848/)
+- [Django 框架基础](https://www.lanqiao.cn/courses/4012/)
 - [玩转 Node.js 开发](https://www.lanqiao.cn/courses/5349/)
-- [由浅入深学 Zookeeper](https://www.lanqiao.cn/courses/4926/)
+- [蓝桥杯软件类高效备赛班](https://www.lanqiao.cn/courses/4493/)
 <!-- SYL:END -->
