@@ -21,3 +21,5 @@
 - [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 - [Vim 基础入门 [免费课]](https://www.lanqiao.cn/courses/2/)
 <!-- HOTEST:END -->
+
+##### ✓ Automatically updated by [GitHub Action](https://github.com/lanqiao-courses/.github/actions/workflows/update.yml).
