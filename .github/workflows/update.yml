@@ -15,4 +15,4 @@ jobs:
           comment_tag_name: SYL
           max_post_count: "5"
           readme_path: "./profile/README.md"
-          feed_list: "https://rsshub.app/lanqiao/courses/%E5%85%A8%E9%83%A8"
+          feed_list: "https://rss.huhuhang.vercel.app/lanqiao/courses/latest/all"
