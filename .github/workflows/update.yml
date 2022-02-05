@@ -15,10 +15,12 @@ jobs:
           comment_tag_name: LATEST
           max_post_count: "5"
           readme_path: "./profile/README.md"
+          disable_sort: true
           feed_list: "https://rss.huhuhang.vercel.app/lanqiao/courses/latest/all"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: HOTEST
           max_post_count: "5"
           readme_path: "./profile/README.md"
+          disable_sort: true
           feed_list: "https://rss.huhuhang.vercel.app/lanqiao/courses/hotest/all"
