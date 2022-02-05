@@ -15,10 +15,10 @@
 ### 最热课程
 
 <!-- HOTEST:START -->
-- [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
-- [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 - [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
+- [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
 - [Python 实现图片转字符画 [免费课]](https://www.lanqiao.cn/courses/370/)
+- [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 - [Vim 基础入门 [免费课]](https://www.lanqiao.cn/courses/2/)
 <!-- HOTEST:END -->
 
