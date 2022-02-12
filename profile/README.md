@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [11 个案例开启 Python 爬虫初体验 [训练营]](https://www.lanqiao.cn/courses/3086/)
+- [玩转 Node.js 开发 [训练营]](https://www.lanqiao.cn/courses/5349/)
+- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
 - [Oeasy 教您玩转 Python [免费课]](https://www.lanqiao.cn/courses/3584/)
 - [机器学习开放基础课程 [免费课]](https://www.lanqiao.cn/courses/1283/)
-- [Python 新手入门课 [免费课]](https://www.lanqiao.cn/courses/1330/)
-- [蓝桥杯经典算法模板解析 [训练营]](https://www.lanqiao.cn/courses/4469/)
-- [Effective Java 中文版（第 3 版） [训练营]](https://www.lanqiao.cn/courses/3483/)
 <!-- LATEST:END -->
 
 ### 最热课程
