@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Django 开发在线问答社区 [训练营]](https://www.lanqiao.cn/courses/4069/)
 - [初中级前端工程师面试宝典 [训练营]](https://www.lanqiao.cn/courses/4452/)
 - [Python 异步网络编程实战 [训练营]](https://www.lanqiao.cn/courses/1292/)
 - [11 个案例开启 Python 爬虫初体验 [训练营]](https://www.lanqiao.cn/courses/3086/)
 - [玩转 Node.js 开发 [训练营]](https://www.lanqiao.cn/courses/5349/)
-- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
 <!-- LATEST:END -->
 
 ### 最热课程
