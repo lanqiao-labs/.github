@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Java 春招集训课之高效通关技术面试 [免费课]](https://www.lanqiao.cn/courses/8042/)
 - [蓝桥杯省赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/3993/)
 - [自然语言处理进阶手册 [训练营]](https://www.lanqiao.cn/courses/3382/)
 - [Django 开发在线问答社区 [训练营]](https://www.lanqiao.cn/courses/4069/)
 - [带你从入门到实战全面掌握 uni-app [训练营]](https://www.lanqiao.cn/courses/4715/)
-- [蓝桥杯软件类高效备赛班 [训练营]](https://www.lanqiao.cn/courses/4493/)
 <!-- LATEST:END -->
 
 ### 最热课程
