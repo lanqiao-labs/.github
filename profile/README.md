@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
 - [OpenStack 基础入门 [会员课]](https://www.lanqiao.cn/courses/8756/)
 - [蓝桥杯近 3 年省赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/5032/)
 - [Java 春招集训课之高效通关技术面试 [免费课]](https://www.lanqiao.cn/courses/8042/)
 - [蓝桥杯省赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/3993/)
-- [自然语言处理进阶手册 [训练营]](https://www.lanqiao.cn/courses/3382/)
 <!-- LATEST:END -->
 
 ### 最热课程
