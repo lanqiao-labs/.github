@@ -5,10 +5,10 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
 - [从零吃透 Vue.js 框架 [训练营]](https://www.lanqiao.cn/courses/3814/)
-- [带你从入门到实战全面掌握 uni-app [训练营]](https://www.lanqiao.cn/courses/4715/)
 - [蓝桥杯省赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/3993/)
+- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
+- [带你从入门到实战全面掌握 uni-app [训练营]](https://www.lanqiao.cn/courses/4715/)
 - [OpenStack 基础入门 [会员课]](https://www.lanqiao.cn/courses/8756/)
 <!-- LATEST:END -->
 
