@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Vue.js 3 仿蓝桥云课移动端首页 [免费课]](https://www.lanqiao.cn/courses/8662/)
+- [微信小程序：WebSocket 聊天开发 [训练营]](https://www.lanqiao.cn/courses/7749/)
 - [第十三届蓝桥杯省赛模拟赛真题解析（高职组） [训练营]](https://www.lanqiao.cn/courses/9211/)
 - [第十三届蓝桥杯省赛模拟赛真题解析（本科组） [训练营]](https://www.lanqiao.cn/courses/9210/)
 - [从零吃透 Vue.js 框架 [训练营]](https://www.lanqiao.cn/courses/3814/)
-- [蓝桥杯省赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/3993/)
-- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
 <!-- LATEST:END -->
 
 ### 最热课程
