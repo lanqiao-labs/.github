@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯省赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/3993/)
-- [Vue.js 3 仿蓝桥云课移动端首页 [免费课]](https://www.lanqiao.cn/courses/8662/)
-- [微信小程序之 WebSocket 聊天开发 [训练营]](https://www.lanqiao.cn/courses/7749/)
-- [第十三届蓝桥杯省赛模拟赛真题解析（高职组） [训练营]](https://www.lanqiao.cn/courses/9211/)
-- [第十三届蓝桥杯省赛模拟赛真题解析（本科组） [训练营]](https://www.lanqiao.cn/courses/9210/)
+- [第十二届蓝桥杯国赛真题讲解（Java 研究生组） [训练营]](https://www.lanqiao.cn/courses/8892/)
+- [第十二届蓝桥杯国赛真题讲解（Java 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/7739/)
+- [第十二届蓝桥杯国赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/7740/)
+- [第十二届蓝桥杯国赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/7743/)
+- [第十二届蓝桥杯国赛真题讲解（Python 组） [训练营]](https://www.lanqiao.cn/courses/7745/)
 <!-- LATEST:END -->
 
 ### 最热课程
