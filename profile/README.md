@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [SQL 注入基础原理介绍 [免费课]](https://www.lanqiao.cn/courses/876/)
+- [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
+- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
 - [第十二届蓝桥杯国赛真题讲解（Java 研究生组） [训练营]](https://www.lanqiao.cn/courses/8892/)
 - [第十二届蓝桥杯国赛真题讲解（Java 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/7739/)
-- [第十二届蓝桥杯国赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/7740/)
-- [第十二届蓝桥杯国赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/7743/)
-- [第十二届蓝桥杯国赛真题讲解（Python 组） [训练营]](https://www.lanqiao.cn/courses/7745/)
 <!-- LATEST:END -->
 
 ### 最热课程
