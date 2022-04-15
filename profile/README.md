@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
+- [初中级前端工程师面试宝典 [训练营]](https://www.lanqiao.cn/courses/4452/)
+- [面试突击：MySQL 技能进阶十五讲 [训练营]](https://www.lanqiao.cn/courses/3942/)
 - [SQL 注入基础原理介绍 [免费课]](https://www.lanqiao.cn/courses/876/)
 - [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
-- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [第十二届蓝桥杯国赛真题讲解（Java 研究生组） [训练营]](https://www.lanqiao.cn/courses/8892/)
-- [第十二届蓝桥杯国赛真题讲解（Java 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/7739/)
 <!-- LATEST:END -->
 
 ### 最热课程
