@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [CSS3 实现热点地图动画 [免费课]](https://www.lanqiao.cn/courses/2673/)
+- [从 0 实现可视化表单组件 [训练营]](https://www.lanqiao.cn/courses/2848/)
+- [现代 C++ 教程（第二版） [训练营]](https://www.lanqiao.cn/courses/3515/)
 - [算法精粹：经典计算机科学问题的 Python 实现 [训练营]](https://www.lanqiao.cn/courses/2654/)
 - [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [通关 Python 计算机二级考试 [训练营]](https://www.lanqiao.cn/courses/5670/)
-- [初中级前端工程师面试宝典 [训练营]](https://www.lanqiao.cn/courses/4452/)
-- [面试突击：MySQL 技能进阶十五讲 [训练营]](https://www.lanqiao.cn/courses/3942/)
 <!-- LATEST:END -->
 
 ### 最热课程
