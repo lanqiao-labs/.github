@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [7 天通关 Java 面试 [训练营]](https://www.lanqiao.cn/courses/5663/)
 - [CSS3 实现热点地图动画 [免费课]](https://www.lanqiao.cn/courses/2673/)
 - [从 0 实现可视化表单组件 [训练营]](https://www.lanqiao.cn/courses/2848/)
 - [现代 C++ 教程（第二版） [训练营]](https://www.lanqiao.cn/courses/3515/)
 - [算法精粹：经典计算机科学问题的 Python 实现 [训练营]](https://www.lanqiao.cn/courses/2654/)
-- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
 <!-- LATEST:END -->
 
 ### 最热课程
