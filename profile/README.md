@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [经典项目：前后端分离网盘系统实战 [训练营]](https://www.lanqiao.cn/courses/3472/)
+- [21 个实验带你快速开发 Django 博客系统 [训练营]](https://www.lanqiao.cn/courses/3326/)
+- [Vue.js 打造酷炫的可视化数据大屏 [训练营]](https://www.lanqiao.cn/courses/2824/)
 - [7 天通关 Java 面试 [训练营]](https://www.lanqiao.cn/courses/5663/)
 - [CSS3 实现热点地图动画 [免费课]](https://www.lanqiao.cn/courses/2673/)
-- [从 0 实现可视化表单组件 [训练营]](https://www.lanqiao.cn/courses/2848/)
-- [现代 C++ 教程（第二版） [训练营]](https://www.lanqiao.cn/courses/3515/)
-- [算法精粹：经典计算机科学问题的 Python 实现 [训练营]](https://www.lanqiao.cn/courses/2654/)
 <!-- LATEST:END -->
 
 ### 最热课程
