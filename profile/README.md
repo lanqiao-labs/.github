@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [微信小程序之 WebSocket 聊天开发 [训练营]](https://www.lanqiao.cn/courses/7749/)
-- [经典项目：前后端分离网盘系统实战 [训练营]](https://www.lanqiao.cn/courses/3472/)
-- [21 个实验带你快速开发 Django 博客系统 [训练营]](https://www.lanqiao.cn/courses/3326/)
-- [Vue.js 打造酷炫的可视化数据大屏 [训练营]](https://www.lanqiao.cn/courses/2824/)
-- [7 天通关 Java 面试 [训练营]](https://www.lanqiao.cn/courses/5663/)
+- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
+- [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥 IT 人才培养项目：软件测试](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥 IT 人才培养项目：Web 应用开发](https://www.lanqiao.cn/courses/9116/)
 <!-- LATEST:END -->
 
 ### 最热课程
