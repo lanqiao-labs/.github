@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [PyTorch 入门与实战 [训练营]](https://www.lanqiao.cn/courses/1073/)
 - [Effective C++（第 3 版） [训练营]](https://www.lanqiao.cn/courses/3223/)
 - [解锁前端工程化 13 讲 [训练营]](https://www.lanqiao.cn/courses/5350/)
 - [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
 - [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
-- [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
 <!-- LATEST:END -->
 
 ### 最热课程
