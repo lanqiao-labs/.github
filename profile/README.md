@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [PyTorch 入门与实战（第二版） [训练营]](https://www.lanqiao.cn/courses/1073/)
+- [PWA 渐进式 Web 应用开发 [训练营]](https://www.lanqiao.cn/courses/2704/)
 - [Python 实现 Markdown 解析器 [会员课]](https://www.lanqiao.cn/courses/708/)
 - [微信小程序之 WebSocket 聊天开发 [训练营]](https://www.lanqiao.cn/courses/7749/)
 - [Effective C++（第 3 版） [训练营]](https://www.lanqiao.cn/courses/3223/)
-- [7 天通关 Java 面试 [训练营]](https://www.lanqiao.cn/courses/5663/)
-- [解锁前端工程化 13 讲 [训练营]](https://www.lanqiao.cn/courses/5350/)
 <!-- LATEST:END -->
 
 ### 最热课程
