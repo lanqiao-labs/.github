@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [VS Code 环境使用指南 [免费课]](https://www.lanqiao.cn/courses/3498/)
 - [C 语言数据结构与算法 [训练营]](https://www.lanqiao.cn/courses/5477/)
 - [21 个实验带你快速开发 Django 博客系统 [训练营]](https://www.lanqiao.cn/courses/3326/)
 - [Vue.js 打造酷炫的可视化数据大屏 [训练营]](https://www.lanqiao.cn/courses/2824/)
 - [人人都能做的 Vue 3 记账本实战 [训练营]](https://www.lanqiao.cn/courses/3097/)
-- [JavaScript 从零构建音乐播放器 [训练营]](https://www.lanqiao.cn/courses/3871/)
 <!-- LATEST:END -->
 
 ### 最热课程
