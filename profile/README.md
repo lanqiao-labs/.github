@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯国赛 14 天夺奖冲奖营 [训练营]](https://www.lanqiao.cn/courses/5194/)
-- [C 语言数据结构与算法 [训练营]](https://www.lanqiao.cn/courses/5477/)
-- [在线民宿 UGC 数据挖掘实战 [训练营]](https://www.lanqiao.cn/courses/2628/)
-- [VS Code 环境使用指南 [免费课]](https://www.lanqiao.cn/courses/3498/)
-- [21 个实验带你快速开发 Django 博客系统 [训练营]](https://www.lanqiao.cn/courses/3326/)
+- [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/7553/)
+- [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/7552/)
+- [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/7533/)
+- [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 研究生组） [训练营]](https://www.lanqiao.cn/courses/7746/)
+- [第十二届蓝桥杯国赛真题讲解（Python 组） [训练营]](https://www.lanqiao.cn/courses/7745/)
 <!-- LATEST:END -->
 
 ### 最热课程
