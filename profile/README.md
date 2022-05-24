@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [DevOps 运维工具配置实战 [训练营]](https://www.lanqiao.cn/courses/7672/)
 - [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/7553/)
 - [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/7552/)
 - [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/7533/)
 - [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 研究生组） [训练营]](https://www.lanqiao.cn/courses/7746/)
-- [第十二届蓝桥杯国赛真题讲解（Python 组） [训练营]](https://www.lanqiao.cn/courses/7745/)
 <!-- LATEST:END -->
 
 ### 最热课程
