@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [28 个案例趣学 Web 前端 [训练营]](https://www.lanqiao.cn/courses/8605/)
 - [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
 - [Python 实现 Excel 数据绘图 [限时免费]](https://www.lanqiao.cn/courses/791/)
 - [Linux 搭建及配置 DNS 服务器 [限时免费]](https://www.lanqiao.cn/courses/601/)
 - [Spring Boot 入门教程 [限时免费]](https://www.lanqiao.cn/courses/1152/)
-- [Java 实现个人博客网站 [限时免费]](https://www.lanqiao.cn/courses/930/)
 <!-- LATEST:END -->
 
 ### 最热课程
