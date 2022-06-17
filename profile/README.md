@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [C 语言数据结构与算法 [训练营]](https://www.lanqiao.cn/courses/5477/)
 - [28 个案例趣学 Web 前端 [训练营]](https://www.lanqiao.cn/courses/8605/)
 - [从零吃透 Vue.js 框架 [训练营]](https://www.lanqiao.cn/courses/3814/)
 - [Element-UI：详解与实战 [训练营]](https://www.lanqiao.cn/courses/3815/)
 - [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
-- [Python 实现 Excel 数据绘图 [限时免费]](https://www.lanqiao.cn/courses/791/)
 <!-- LATEST:END -->
 
 ### 最热课程
