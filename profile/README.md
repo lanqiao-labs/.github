@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 - [SQLMap 基础入门 [限时免费]](https://www.lanqiao.cn/courses/874/)
 - [Python 实现端口扫描器 [限时免费]](https://www.lanqiao.cn/courses/495/)
 - [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
 - [JavaScript 实现全屏手风琴 [限时免费]](https://www.lanqiao.cn/courses/2674/)
-- [自然语言处理基础入门 [限时免费]](https://www.lanqiao.cn/courses/1208/)
 <!-- LATEST:END -->
 
 ### 最热课程
