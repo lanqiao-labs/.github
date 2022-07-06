@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 - [Python 编程实战：妙趣横生的项目之旅 [训练营]](https://www.lanqiao.cn/courses/9289/)
+- [C 语言程序设计 [训练营]](https://www.lanqiao.cn/courses/9207/)
+- [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 - [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
 - [Python 绘制中文词云 [限时免费]](https://www.lanqiao.cn/courses/756/)
-- [Python 实现 FTP 认证服务器 [限时免费]](https://www.lanqiao.cn/courses/725/)
 <!-- LATEST:END -->
 
 ### 最热课程
