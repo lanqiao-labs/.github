@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Python 数据分析入门实战 [训练营]](https://www.lanqiao.cn/courses/764/)
 - [Python 编程实战：妙趣横生的项目之旅 [训练营]](https://www.lanqiao.cn/courses/9289/)
 - [C 语言程序设计 [训练营]](https://www.lanqiao.cn/courses/9207/)
 - [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 - [Linux 系统监控实战 [会员课]](https://www.lanqiao.cn/courses/92/)
-- [Python 绘制中文词云 [会员课]](https://www.lanqiao.cn/courses/756/)
 <!-- LATEST:END -->
 
 ### 最热课程
