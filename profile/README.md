@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Java 工程师面试通关营 [训练营]](https://www.lanqiao.cn/courses/9441/)
 - [C 语言程序设计 [训练营]](https://www.lanqiao.cn/courses/9207/)
 - [C++ 案例趣学 [训练营]](https://www.lanqiao.cn/courses/9292/)
 - [Python 数据分析入门实战 [训练营]](https://www.lanqiao.cn/courses/764/)
 - [Python 编程实战：妙趣横生的项目之旅 [训练营]](https://www.lanqiao.cn/courses/9289/)
-- [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 <!-- LATEST:END -->
 
 ### 最热课程
