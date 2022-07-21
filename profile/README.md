@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Java 工程师面试通关营 [训练营]](https://www.lanqiao.cn/courses/9441/)
-- [C 语言程序设计 [训练营]](https://www.lanqiao.cn/courses/9207/)
-- [C++ 案例趣学 [训练营]](https://www.lanqiao.cn/courses/9292/)
-- [Python 数据分析入门实战 [训练营]](https://www.lanqiao.cn/courses/764/)
-- [Python 编程实战：妙趣横生的项目之旅 [训练营]](https://www.lanqiao.cn/courses/9289/)
+- [Agora 声⽹在线项⽬实训课 [免费课]](https://www.lanqiao.cn/courses/5848/)
+- [Go 语言实现 2048 游戏 [限时免费]](https://www.lanqiao.cn/courses/42/)
+- [JQuery 实现网页图片懒加载 [限时免费]](https://www.lanqiao.cn/courses/2675/)
+- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
+- [Hadoop 分析武侠小说词频 [限时免费]](https://www.lanqiao.cn/courses/40/)
 <!-- LATEST:END -->
 
 ### 最热课程
