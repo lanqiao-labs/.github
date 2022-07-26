@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Koa.js 基础入门 [训练营]](https://www.lanqiao.cn/courses/5000/)
 - [Agora 声⽹在线项⽬实训课 [免费课]](https://www.lanqiao.cn/courses/5848/)
 - [Go 语言实现 2048 游戏 [限时免费]](https://www.lanqiao.cn/courses/42/)
 - [JQuery 实现网页图片懒加载 [限时免费]](https://www.lanqiao.cn/courses/2675/)
 - [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
-- [Hadoop 分析武侠小说词频 [限时免费]](https://www.lanqiao.cn/courses/40/)
 <!-- LATEST:END -->
 
 ### 最热课程
