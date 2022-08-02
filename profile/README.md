@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Flutter 零基础入门：从入门到实战一次学会 [训练营]](https://www.lanqiao.cn/courses/2984/)
 - [C++ 案例趣学 [训练营]](https://www.lanqiao.cn/courses/9292/)
 - [Koa.js 基础入门 [训练营]](https://www.lanqiao.cn/courses/5000/)
 - [Metasploit 实现木马生成、捆绑及免杀 [限时免费]](https://www.lanqiao.cn/courses/715/)
 - [神经网络实现人脸识别任务 [限时免费]](https://www.lanqiao.cn/courses/707/)
-- [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
 <!-- LATEST:END -->
 
 ### 最热课程
