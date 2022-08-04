@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [SpringBoot + Vue 打造大病保险管理系统 [训练营]](https://www.lanqiao.cn/courses/9099/)
-- [Flutter 零基础入门：从入门到实战一次学会 [训练营]](https://www.lanqiao.cn/courses/2984/)
-- [C++ 案例趣学 [训练营]](https://www.lanqiao.cn/courses/9292/)
-- [Koa.js 基础入门 [训练营]](https://www.lanqiao.cn/courses/5000/)
-- [Metasploit 实现木马生成、捆绑及免杀 [限时免费]](https://www.lanqiao.cn/courses/715/)
+- [OpenCV 实现视频转字符动画 [限时免费]](https://www.lanqiao.cn/courses/637/)
+- [Spark Streaming 基础入门 [限时免费]](https://www.lanqiao.cn/courses/571/)
+- [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
+- [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
+- [C 语言实现 Linux 网络嗅探器 [限时免费]](https://www.lanqiao.cn/courses/613/)
 <!-- LATEST:END -->
 
 ### 最热课程
