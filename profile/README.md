@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Django 实现仿 Upwork 众包网站 [训练营]](https://www.lanqiao.cn/courses/1144/)
 - [OpenCV 实现视频转字符动画 [限时免费]](https://www.lanqiao.cn/courses/637/)
 - [Spark Streaming 基础入门 [限时免费]](https://www.lanqiao.cn/courses/571/)
 - [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
 - [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
-- [C 语言实现 Linux 网络嗅探器 [限时免费]](https://www.lanqiao.cn/courses/613/)
 <!-- LATEST:END -->
 
 ### 最热课程
