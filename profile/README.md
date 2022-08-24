@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [oeasy 教您玩转 PostgreSQL 数据库 [免费课]](https://www.lanqiao.cn/courses/2782/)
 - [Go 实现高并发抽奖系统 [训练营]](https://www.lanqiao.cn/courses/1597/)
 - [Go 语言开发在线商城 [训练营]](https://www.lanqiao.cn/courses/896/)
 - [Go 语言实现缓存系统 [会员课]](https://www.lanqiao.cn/courses/504/)
 - [CSS 实现红包模糊效果 [会员课]](https://www.lanqiao.cn/courses/497/)
-- [C++ 实现监控和运动检测 [会员课]](https://www.lanqiao.cn/courses/671/)
 <!-- LATEST:END -->
 
 ### 最热课程
