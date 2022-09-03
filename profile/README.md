@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [图数据库 Neo4j 基础入门 [免费课]](https://www.lanqiao.cn/courses/4043/)
 - [OpenCV 开发口罩实时监测项目 [训练营]](https://www.lanqiao.cn/courses/9587/)
 - [Django 开发在线问答社区 [训练营]](https://www.lanqiao.cn/courses/4069/)
 - [oeasy 教您玩转 PostgreSQL 数据库 [免费课]](https://www.lanqiao.cn/courses/2782/)
 - [Go 实现高并发抽奖系统 [训练营]](https://www.lanqiao.cn/courses/1597/)
-- [Go 语言开发在线商城 [训练营]](https://www.lanqiao.cn/courses/896/)
 <!-- LATEST:END -->
 
 ### 最热课程
