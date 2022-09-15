@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [从 0 到 1 掌握 CocosCreator 微信小游戏开发 [训练营]](https://www.lanqiao.cn/courses/9436/)
-- [独居老人家庭监测物联网平台开发 [训练营]](https://www.lanqiao.cn/courses/9618/)
-- [OpenCV 开发口罩实时监测项目 [训练营]](https://www.lanqiao.cn/courses/9587/)
-- [图数据库 Neo4j 基础入门 [免费课]](https://www.lanqiao.cn/courses/4043/)
-- [Django 开发在线问答社区 [训练营]](https://www.lanqiao.cn/courses/4069/)
+- [HTML5 实现刮刮乐游戏 [限时免费]](https://www.lanqiao.cn/courses/133/)
+- [Go 语言实现 2048 游戏 [限时免费]](https://www.lanqiao.cn/courses/42/)
+- [JQuery 实现网页图片懒加载 [限时免费]](https://www.lanqiao.cn/courses/2675/)
+- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
+- [Hadoop 分析武侠小说词频 [限时免费]](https://www.lanqiao.cn/courses/40/)
 <!-- LATEST:END -->
 
 ### 最热课程
