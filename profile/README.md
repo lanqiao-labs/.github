@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [HTML5 实现刮刮乐游戏 [限时免费]](https://www.lanqiao.cn/courses/133/)
-- [Go 语言实现 2048 游戏 [限时免费]](https://www.lanqiao.cn/courses/42/)
-- [JQuery 实现网页图片懒加载 [限时免费]](https://www.lanqiao.cn/courses/2675/)
-- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
-- [Hadoop 分析武侠小说词频 [限时免费]](https://www.lanqiao.cn/courses/40/)
+- [Python 开发工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9442/)
+- [Metasploit 实现木马生成、捆绑及免杀 [限时免费]](https://www.lanqiao.cn/courses/715/)
+- [神经网络实现人脸识别任务 [限时免费]](https://www.lanqiao.cn/courses/707/)
+- [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
+- [大数据带你挖掘打车的秘籍 [限时免费]](https://www.lanqiao.cn/courses/736/)
 <!-- LATEST:END -->
 
 ### 最热课程
