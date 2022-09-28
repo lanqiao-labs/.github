@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [玩转 16 种反爬虫技巧 [训练营]](https://www.lanqiao.cn/courses/9471/)
 - [Vue.js 和 Django 仿简易版实验楼 [训练营]](https://www.lanqiao.cn/courses/1547/)
 - [Django 实现仿 Upwork 众包网站 [训练营]](https://www.lanqiao.cn/courses/1144/)
 - [Python 开发工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9442/)
 - [Metasploit 实现木马生成、捆绑及免杀 [限时免费]](https://www.lanqiao.cn/courses/715/)
-- [神经网络实现人脸识别任务 [限时免费]](https://www.lanqiao.cn/courses/707/)
 <!-- LATEST:END -->
 
 ### 最热课程
