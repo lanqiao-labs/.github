@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [玩转 16 种反爬虫技巧 [训练营]](https://www.lanqiao.cn/courses/9471/)
-- [Vue.js 和 Django 仿简易版实验楼 [训练营]](https://www.lanqiao.cn/courses/1547/)
-- [Django 实现仿 Upwork 众包网站 [训练营]](https://www.lanqiao.cn/courses/1144/)
-- [Python 开发工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9442/)
-- [Metasploit 实现木马生成、捆绑及免杀 [限时免费]](https://www.lanqiao.cn/courses/715/)
+- [OpenCV 实现视频转字符动画 [限时免费]](https://www.lanqiao.cn/courses/637/)
+- [Spark Streaming 基础入门 [限时免费]](https://www.lanqiao.cn/courses/571/)
+- [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
+- [C 语言实现 Linux 网络嗅探器 [限时免费]](https://www.lanqiao.cn/courses/613/)
+- [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
 <!-- LATEST:END -->
 
 ### 最热课程
