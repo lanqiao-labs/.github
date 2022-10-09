@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [程序设计方法及在线实践（重庆交通大学一流课程） [免费课]](https://www.lanqiao.cn/courses/10967/)
-- [OpenCV 实现视频转字符动画 [限时免费]](https://www.lanqiao.cn/courses/637/)
-- [Spark Streaming 基础入门 [限时免费]](https://www.lanqiao.cn/courses/571/)
-- [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
-- [C 语言实现 Linux 网络嗅探器 [限时免费]](https://www.lanqiao.cn/courses/613/)
+- [由浅入深学网络 [训练营]](https://www.lanqiao.cn/courses/680/)
+- [CSS 实现红包模糊效果 [限时免费]](https://www.lanqiao.cn/courses/497/)
+- [C++ 实现监控和运动检测 [限时免费]](https://www.lanqiao.cn/courses/671/)
+- [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
+- [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
 <!-- LATEST:END -->
 
 ### 最热课程
