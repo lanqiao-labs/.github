@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [前端工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9328/)
 - [由浅入深学网络 [训练营]](https://www.lanqiao.cn/courses/680/)
 - [CSS 实现红包模糊效果 [限时免费]](https://www.lanqiao.cn/courses/497/)
 - [C++ 实现监控和运动检测 [限时免费]](https://www.lanqiao.cn/courses/671/)
 - [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
-- [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
 <!-- LATEST:END -->
 
 ### 最热课程
