@@ -6,10 +6,10 @@
 
 <!-- LATEST:START -->
 - [蓝桥杯第 8-10 届真题解析 [训练营]](https://www.lanqiao.cn/courses/11002/)
+- [十四届蓝桥杯（Web 应用开发）一站通关【大学组】 [免费课]](https://www.lanqiao.cn/courses/10532/)
 - [十四届蓝桥杯（Web 应用开发）一站通关【职业组】 [免费课]](https://www.lanqiao.cn/courses/10998/)
 - [基于 Kubernetes 的 CICD 实战 [训练营]](https://www.lanqiao.cn/courses/10022/)
-- [十四届蓝桥杯（Web 应用开发）一站通关【大学组】 [免费课]](https://www.lanqiao.cn/courses/10532/)
-- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥 IT 人才培养项目：系统运维 [楼+]](https://www.lanqiao.cn/courses/9120/)
 <!-- LATEST:END -->
 
 ### 最热课程
