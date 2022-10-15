@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯第 8-10 届真题解析 [训练营]](https://www.lanqiao.cn/courses/11002/)
-- [十四届蓝桥杯（Web 应用开发）一站通关【大学组】 [免费课]](https://www.lanqiao.cn/courses/10532/)
-- [十四届蓝桥杯（Web 应用开发）一站通关【职业组】 [免费课]](https://www.lanqiao.cn/courses/10998/)
-- [基于 Kubernetes 的 CICD 实战 [训练营]](https://www.lanqiao.cn/courses/10022/)
-- [蓝桥 IT 人才培养项目：系统运维 [楼+]](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥杯第13届 Web 前端组省赛真题解析（大学组） [免费课]](https://www.lanqiao.cn/courses/9791/)
+- [蓝桥杯 11～13 届省赛真题解析（单片机） [训练营]](https://www.lanqiao.cn/courses/11013/)
+- [蓝桥杯 11～13 届年真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
+- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/11008/)
+- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/11011/)
 <!-- LATEST:END -->
 
 ### 最热课程
