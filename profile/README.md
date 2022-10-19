@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Jenkins 自动化运维实战 [训练营]](https://www.lanqiao.cn/courses/9561/)
 - [蓝桥杯第13届 Web 前端组省赛真题解析（大学组） [免费课]](https://www.lanqiao.cn/courses/9791/)
 - [蓝桥杯 11～13 届省赛真题解析（单片机） [训练营]](https://www.lanqiao.cn/courses/11013/)
 - [蓝桥杯 11～13 届年真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
 - [蓝桥杯 11～13 届省赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/11011/)
-- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/11008/)
 <!-- LATEST:END -->
 
 ### 最热课程
