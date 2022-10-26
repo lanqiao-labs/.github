@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [突破 JavaScript 设计模式核心 9 讲 [训练营]](https://www.lanqiao.cn/courses/9780/)
 - [蓝桥杯大赛历届真题 [免费课]](https://www.lanqiao.cn/courses/2786/)
 - [蓝桥杯 11～13 届省赛真题解析（单片机） [训练营]](https://www.lanqiao.cn/courses/11013/)
 - [蓝桥杯第13届 Web 前端组省赛真题解析（大学组） [免费课]](https://www.lanqiao.cn/courses/9791/)
 - [蓝桥杯 11～13 届年真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
-- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/11011/)
 <!-- LATEST:END -->
 
 ### 最热课程
