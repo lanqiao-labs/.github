@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯 11～13 届年真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
-- [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
-- [Spring Boot 和 Bootstrap 搭建权限管理系统 [训练营]](https://www.lanqiao.cn/courses/2619/)
-- [经典项目：前后端分离网盘系统实战 [训练营]](https://www.lanqiao.cn/courses/3472/)
-- [SpringBoot + Vue 打造大病保险管理系统 [训练营]](https://www.lanqiao.cn/courses/9099/)
+- [SQLMap 基础入门 [限时免费]](https://www.lanqiao.cn/courses/874/)
+- [Python 实现端口扫描器 [限时免费]](https://www.lanqiao.cn/courses/495/)
+- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
+- [JavaScript 实现全屏手风琴 [限时免费]](https://www.lanqiao.cn/courses/2674/)
+- [自然语言处理基础入门 [限时免费]](https://www.lanqiao.cn/courses/1208/)
 <!-- LATEST:END -->
 
 ### 最热课程
