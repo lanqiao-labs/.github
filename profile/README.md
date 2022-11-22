@@ -8,8 +8,8 @@
 - [Vue + Django 前后端问卷平台开发实战 [训练营]](https://www.lanqiao.cn/courses/11086/)
 - [第十四届蓝桥杯软件类 1 期模拟赛解析（高职组） [免费课]](https://www.lanqiao.cn/courses/11594/)
 - [第十四届蓝桥杯软件类 1 期模拟赛解析（大学组） [免费课]](https://www.lanqiao.cn/courses/11038/)
-- [SQLMap 基础入门 [限时免费]](https://www.lanqiao.cn/courses/874/)
-- [Python 实现端口扫描器 [限时免费]](https://www.lanqiao.cn/courses/495/)
+- [SQLMap 基础入门 [会员课]](https://www.lanqiao.cn/courses/874/)
+- [Python 实现端口扫描器 [会员课]](https://www.lanqiao.cn/courses/495/)
 <!-- LATEST:END -->
 
 ### 最热课程
