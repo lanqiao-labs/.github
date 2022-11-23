@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Vue + Django 前后端问卷平台开发实战 [训练营]](https://www.lanqiao.cn/courses/11086/)
-- [第十四届蓝桥杯软件类 1 期模拟赛解析（高职组） [免费课]](https://www.lanqiao.cn/courses/11594/)
-- [第十四届蓝桥杯软件类 1 期模拟赛解析（大学组） [免费课]](https://www.lanqiao.cn/courses/11038/)
-- [SQLMap 基础入门 [会员课]](https://www.lanqiao.cn/courses/874/)
-- [Python 实现端口扫描器 [会员课]](https://www.lanqiao.cn/courses/495/)
+- [信息系统项目管理师（软考高级） [楼+]](https://www.lanqiao.cn/courses/11035/)
+- [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
+- [Python 绘制中文词云 [限时免费]](https://www.lanqiao.cn/courses/756/)
+- [Python 实现 FTP 认证服务器 [限时免费]](https://www.lanqiao.cn/courses/725/)
+- [CSS 实现红包模糊效果 [限时免费]](https://www.lanqiao.cn/courses/497/)
 <!-- LATEST:END -->
 
 ### 最热课程
