@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [职业生涯规划 [训练营]](https://www.lanqiao.cn/courses/16475/)
 - [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
 - [信息系统项目管理师（软考高级） [楼+]](https://www.lanqiao.cn/courses/11035/)
 - [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
 - [Python 绘制中文词云 [限时免费]](https://www.lanqiao.cn/courses/756/)
-- [Python 实现 FTP 认证服务器 [限时免费]](https://www.lanqiao.cn/courses/725/)
 <!-- LATEST:END -->
 
 ### 最热课程
