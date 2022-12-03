@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [声⽹RTE实时互动在线实训课 [免费课]](https://www.lanqiao.cn/courses/5848/)
 - [职业生涯规划 [训练营]](https://www.lanqiao.cn/courses/16475/)
 - [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
 - [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
 - [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
-- [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
 <!-- LATEST:END -->
 
 ### 最热课程
