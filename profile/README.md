@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯单片机组备赛夺奖宝典 [训练营]](https://www.lanqiao.cn/courses/9758/)
+- [第十四届蓝桥杯 Python 组省赛夺奖启航班【第一期】 [训练营]](https://www.lanqiao.cn/courses/10606/)
+- [第十四届蓝桥杯 Java 组省赛夺奖启航班【第一期】 [训练营]](https://www.lanqiao.cn/courses/11020/)
+- [第十四届蓝桥杯 C&amp;C++ 组省赛夺奖启航班【第一期】 [训练营]](https://www.lanqiao.cn/courses/11001/)
 - [声⽹RTE实时互动在线实训课 [免费课]](https://www.lanqiao.cn/courses/5848/)
-- [职业生涯规划 [训练营]](https://www.lanqiao.cn/courses/16475/)
-- [职场沟通技巧 [训练营]](https://www.lanqiao.cn/courses/9584/)
-- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
 <!-- LATEST:END -->
 
 ### 最热课程
