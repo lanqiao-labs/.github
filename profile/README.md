@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第14届蓝桥杯 Java 组省赛夺奖班【配图书教材】 [训练营]](https://www.lanqiao.cn/courses/15949/)
+- [第14届蓝桥杯 Python 组省赛夺奖班【配图书教材】 [训练营]](https://www.lanqiao.cn/courses/15951/)
+- [基于 SSM 开发学生信息管理系统 [训练营]](https://www.lanqiao.cn/courses/8874/)
 - [蓝桥杯 11～13 届真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
 - [蓝桥杯 11～13 届省赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/11008/)
-- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/11011/)
-- [蓝桥杯近 11～13 届省赛真题讲解（Java 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11010/)
-- [蓝桥杯 11～13 届省赛真题讲解（C&amp;C++ 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/11009/)
 <!-- LATEST:END -->
 
 ### 最热课程
