@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [第14届蓝桥杯 Java 组省赛夺奖班【配图书教材】 [训练营]](https://www.lanqiao.cn/courses/15949/)
-- [第14届蓝桥杯 Python 组省赛夺奖班【配图书教材】 [训练营]](https://www.lanqiao.cn/courses/15951/)
-- [基于 SSM 开发学生信息管理系统 [训练营]](https://www.lanqiao.cn/courses/8874/)
-- [蓝桥杯 11～13 届真题解析（Python 组） [训练营]](https://www.lanqiao.cn/courses/11012/)
-- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/11008/)
+- [图数据库 Neo4j 基础入门 [免费课]](https://www.lanqiao.cn/courses/4043/)
+- [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
+- [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
+- [C++ 实现常见加密算法 [限时免费]](https://www.lanqiao.cn/courses/654/)
+- [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
 <!-- LATEST:END -->
 
 ### 最热课程
