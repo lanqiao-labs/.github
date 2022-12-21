@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [图数据库 Neo4j 基础入门 [免费课]](https://www.lanqiao.cn/courses/4043/)
-- [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
-- [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
-- [C++ 实现常见加密算法 [限时免费]](https://www.lanqiao.cn/courses/654/)
-- [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
+- [《程序设计竞赛专题挑战教程》实体图书 [训练营]](https://www.lanqiao.cn/courses/17167/)
+- [《C&amp;C++程序设计竞赛真题实战特训教程-图解版》实体图书 [训练营]](https://www.lanqiao.cn/courses/17168/)
+- [Python 实现网站信息批量爬取 [限时免费]](https://www.lanqiao.cn/courses/1250/)
+- [Spring Boot 3 入门及前后端分离项目实践 [训练营]](https://www.lanqiao.cn/courses/1244/)
+- [Python 实现一个轻量型数据库 [训练营]](https://www.lanqiao.cn/courses/914/)
 <!-- LATEST:END -->
 
 ### 最热课程
