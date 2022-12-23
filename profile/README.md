@@ -9,7 +9,7 @@
 - [《程序设计竞赛专题挑战教程》实体图书 [训练营]](https://www.lanqiao.cn/courses/17167/)
 - [《C&amp;C++程序设计竞赛真题实战特训教程-图解版》实体图书 [训练营]](https://www.lanqiao.cn/courses/17168/)
 - [CocosCreator 百行代码复刻「羊了个羊」 [免费课]](https://www.lanqiao.cn/courses/11096/)
-- [Python 实现网站信息批量爬取 [限时免费]](https://www.lanqiao.cn/courses/1250/)
+- [Python 实现网站信息批量爬取 [会员课]](https://www.lanqiao.cn/courses/1250/)
 <!-- LATEST:END -->
 
 ### 最热课程
