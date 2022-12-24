@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [第14届蓝桥杯 C&amp;C++ 组省赛夺奖班【配图书教材】 [训练营]](https://www.lanqiao.cn/courses/15950/)
-- [《程序设计竞赛专题挑战教程》实体图书 [训练营]](https://www.lanqiao.cn/courses/17167/)
-- [《C&amp;C++程序设计竞赛真题实战特训教程-图解版》实体图书 [训练营]](https://www.lanqiao.cn/courses/17168/)
-- [CocosCreator 百行代码复刻「羊了个羊」 [免费课]](https://www.lanqiao.cn/courses/11096/)
-- [Python 实现网站信息批量爬取 [会员课]](https://www.lanqiao.cn/courses/1250/)
+- [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
+- [Python 实现 Excel 数据绘图 [限时免费]](https://www.lanqiao.cn/courses/791/)
+- [Linux 搭建及配置 DNS 服务器 [限时免费]](https://www.lanqiao.cn/courses/601/)
+- [Spring Boot 入门教程 [限时免费]](https://www.lanqiao.cn/courses/1152/)
+- [Java 实现个人博客网站 [限时免费]](https://www.lanqiao.cn/courses/930/)
 <!-- LATEST:END -->
 
 ### 最热课程
