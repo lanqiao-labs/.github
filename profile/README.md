@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
-- [Python 实现 Excel 数据绘图 [限时免费]](https://www.lanqiao.cn/courses/791/)
-- [Linux 搭建及配置 DNS 服务器 [限时免费]](https://www.lanqiao.cn/courses/601/)
-- [Spring Boot 入门教程 [限时免费]](https://www.lanqiao.cn/courses/1152/)
-- [Java 实现个人博客网站 [限时免费]](https://www.lanqiao.cn/courses/930/)
+- [蓝桥云课知识图谱实战 [训练营]](https://www.lanqiao.cn/courses/5444/)
+- [第14届蓝桥杯 Java 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17162/)
+- [第14届蓝桥杯 C&amp;C++ 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17163/)
+- [第14届蓝桥杯 Python 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17164/)
+- [第14届蓝桥杯 Python 组省赛夺奖班【第三期配图书教材】 [训练营]](https://www.lanqiao.cn/courses/17176/)
 <!-- LATEST:END -->
 
 ### 最热课程
