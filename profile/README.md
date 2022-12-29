@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥云课知识图谱实战 [训练营]](https://www.lanqiao.cn/courses/5444/)
-- [第14届蓝桥杯 Java 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17162/)
-- [第14届蓝桥杯 C&amp;C++ 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17163/)
-- [第14届蓝桥杯 Python 组省赛夺奖班【第三期】 [训练营]](https://www.lanqiao.cn/courses/17164/)
-- [第14届蓝桥杯 Python 组省赛夺奖班【第三期配图书教材】 [训练营]](https://www.lanqiao.cn/courses/17176/)
+- [SQLMap 基础入门 [限时免费]](https://www.lanqiao.cn/courses/874/)
+- [Python 实现端口扫描器 [限时免费]](https://www.lanqiao.cn/courses/495/)
+- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
+- [JavaScript 实现全屏手风琴 [限时免费]](https://www.lanqiao.cn/courses/2674/)
+- [自然语言处理基础入门 [限时免费]](https://www.lanqiao.cn/courses/1208/)
 <!-- LATEST:END -->
 
 ### 最热课程
