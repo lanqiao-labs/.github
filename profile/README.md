@@ -9,7 +9,7 @@
 - [JDK 新特性攻克（8-11） [训练营]](https://www.lanqiao.cn/courses/10572/)
 - [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
 - [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [SQLMap 基础入门 [限时免费]](https://www.lanqiao.cn/courses/874/)
+- [SQLMap 基础入门 [会员课]](https://www.lanqiao.cn/courses/874/)
 <!-- LATEST:END -->
 
 ### 最热课程
