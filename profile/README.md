@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [SpringBoot+MyBatis+Thymeleaf 搭建个人博客 [训练营]](https://www.lanqiao.cn/courses/1367/)
-- [JDK 新特性攻克（8-11） [训练营]](https://www.lanqiao.cn/courses/10572/)
-- [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
-- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [SQLMap 基础入门 [会员课]](https://www.lanqiao.cn/courses/874/)
+- [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
+- [Python 绘制中文词云 [限时免费]](https://www.lanqiao.cn/courses/756/)
+- [Python 实现 FTP 认证服务器 [限时免费]](https://www.lanqiao.cn/courses/725/)
+- [CSS 实现红包模糊效果 [限时免费]](https://www.lanqiao.cn/courses/497/)
+- [Shell 实现打字游戏脚本 [限时免费]](https://www.lanqiao.cn/courses/52/)
 <!-- LATEST:END -->
 
 ### 最热课程
