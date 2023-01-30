@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯 11～13 届省赛真题讲解（Java 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11010/)
-- [Linux 系统监控实战 [会员课]](https://www.lanqiao.cn/courses/92/)
-- [Python 绘制中文词云 [会员课]](https://www.lanqiao.cn/courses/756/)
-- [Python 实现 FTP 认证服务器 [会员课]](https://www.lanqiao.cn/courses/725/)
-- [CSS 实现红包模糊效果 [会员课]](https://www.lanqiao.cn/courses/497/)
+- [蓝桥 IT 人才培养项目：Web 应用开发](https://www.lanqiao.cn/courses/9116/)
+- [蓝桥 IT 人才培养项目：软件测试](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
+- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
 <!-- LATEST:END -->
 
 ### 最热课程
