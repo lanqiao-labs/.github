@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Electron 学习之旅 [免费课]](https://www.lanqiao.cn/courses/11452/)
 - [Python 开发工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9442/)
 - [信息系统项目管理师（软考高级） [楼+]](https://www.lanqiao.cn/courses/11035/)
 - [第14届蓝桥杯 Java 组省赛夺奖班【第三期配图书教材】 [训练营]](https://www.lanqiao.cn/courses/17178/)
 - [第14届蓝桥杯 C&amp;C++ 组省赛夺奖班【第三期配图书教材】 [训练营]](https://www.lanqiao.cn/courses/17177/)
-- [第14届蓝桥杯 Python 组省赛夺奖班【第三期配图书教材】 [训练营]](https://www.lanqiao.cn/courses/17176/)
 <!-- LATEST:END -->
 
 ### 最热课程
