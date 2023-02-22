@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第十四届蓝桥杯省赛冲刺营【第二期】 [训练营]](https://www.lanqiao.cn/courses/18397/)
+- [Kali 渗透测试：服务器攻击实战 [训练营]](https://www.lanqiao.cn/courses/698/)
+- [Kali 渗透测试：Web 应用攻击实战 [训练营]](https://www.lanqiao.cn/courses/717/)
+- [Python 新手入门课 [免费课]](https://www.lanqiao.cn/courses/1330/)
 - [春招急救指南：Python 开发 [训练营]](https://www.lanqiao.cn/courses/18291/)
-- [春招急救指南：Java 开发 [训练营]](https://www.lanqiao.cn/courses/5663/)
-- [春招急救指南：前端开发 [训练营]](https://www.lanqiao.cn/courses/4452/)
-- [操作系统原理与实践 [免费课]](https://www.lanqiao.cn/courses/115/)
-- [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
 <!-- LATEST:END -->
 
 ### 最热课程
