@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [实战打造百万级高并发秒杀系统 [训练营]](https://www.lanqiao.cn/courses/3367/)
+- [深入理解 Spring Cloud 与微服务（第 2 版） [训练营]](https://www.lanqiao.cn/courses/2637/)
+- [由浅入深学 Zookeeper [训练营]](https://www.lanqiao.cn/courses/4926/)
 - [Vue.js 3 + Vite 2 开发浏览器插件集 [训练营]](https://www.lanqiao.cn/courses/3484/)
 - [Go 语言模拟实现 TCP IP 协议 [训练营]](https://www.lanqiao.cn/courses/1300/)
-- [第十四届蓝桥杯省赛冲刺营【第二期】 [训练营]](https://www.lanqiao.cn/courses/18397/)
-- [Kali 渗透测试：服务器攻击实战 [训练营]](https://www.lanqiao.cn/courses/698/)
-- [Kali 渗透测试：Web 应用攻击实战 [训练营]](https://www.lanqiao.cn/courses/717/)
 <!-- LATEST:END -->
 
 ### 最热课程
