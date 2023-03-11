@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [C++ 案例趣学 [训练营]](https://www.lanqiao.cn/courses/9292/)
 - [第十四届蓝桥杯省赛冲刺营 [训练营]](https://www.lanqiao.cn/courses/17812/)
 - [Spring Boot 开发在线问卷调查系统实战 [训练营]](https://www.lanqiao.cn/courses/11085/)
 - [实战打造百万级高并发秒杀系统 [训练营]](https://www.lanqiao.cn/courses/3367/)
 - [深入理解 Spring Cloud 与微服务（第 2 版） [训练营]](https://www.lanqiao.cn/courses/2637/)
-- [由浅入深学 Zookeeper [训练营]](https://www.lanqiao.cn/courses/4926/)
 <!-- LATEST:END -->
 
 ### 最热课程
