@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [PMP 项目管理专业人士认证 [楼+]](https://www.lanqiao.cn/courses/16119/)
+- [Beego 入门实战开发 Web 应用 [训练营]](https://www.lanqiao.cn/courses/12297/)
+- [Xmake 带你轻松构建 C&amp;C++ 项目 [训练营]](https://www.lanqiao.cn/courses/2764/)
 - [C++ 基础入门实战 [会员课]](https://www.lanqiao.cn/courses/2752/)
 - [C++ 实现 K-Means 聚类算法 [会员课]](https://www.lanqiao.cn/courses/1193/)
-- [Python 自动化测试实战 [会员课]](https://www.lanqiao.cn/courses/1163/)
-- [信息系统项目管理师（软考高级） [楼+]](https://www.lanqiao.cn/courses/11035/)
-- [系统集成项目管理工程师（软考中级） [楼+]](https://www.lanqiao.cn/courses/18835/)
 <!-- LATEST:END -->
 
 ### 最热课程
