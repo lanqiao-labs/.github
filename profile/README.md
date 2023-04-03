@@ -18,8 +18,8 @@
 - [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
 - [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
 - [Python 实现图片转字符画 [免费课]](https://www.lanqiao.cn/courses/370/)
-- [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 - [蓝桥杯大赛历届真题 [免费课]](https://www.lanqiao.cn/courses/2786/)
+- [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 <!-- HOTEST:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/lanqiao-courses/.github/actions/workflows/update.yml).
