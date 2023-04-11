@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [25 个实验带你轻松玩转 Spring Boot [训练营]](https://www.lanqiao.cn/courses/1274/)
-- [前端工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9328/)
-- [SQLite 从入门到实战 [训练营]](https://www.lanqiao.cn/courses/16473/)
-- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
-- [PMP 项目管理专业人士认证 [楼+]](https://www.lanqiao.cn/courses/16119/)
+- [蓝桥杯省赛高频考点集训营 [训练营]](https://www.lanqiao.cn/courses/18397/)
+- [SQL Server 2019 基础入门 [会员课]](https://www.lanqiao.cn/courses/2703/)
+- [J2SE 基础入门实战 [训练营]](https://www.lanqiao.cn/courses/2765/)
+- [Web 零基础入门：HTML+CSS [训练营]](https://www.lanqiao.cn/courses/18980/)
+- [数据结构与算法攻坚课 [训练营]](https://www.lanqiao.cn/courses/3333/)
 <!-- LATEST:END -->
 
 ### 最热课程
