@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯 Python 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17169/)
+- [蓝桥杯 C&amp;C++ 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17170/)
+- [蓝桥杯 Java 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17171/)
 - [蓝桥杯省赛高频考点集训营 [训练营]](https://www.lanqiao.cn/courses/18397/)
 - [SQL Server 2019 基础入门 [会员课]](https://www.lanqiao.cn/courses/2703/)
-- [J2SE 基础入门实战 [训练营]](https://www.lanqiao.cn/courses/2765/)
-- [Web 零基础入门：HTML+CSS [训练营]](https://www.lanqiao.cn/courses/18980/)
-- [数据结构与算法攻坚课 [训练营]](https://www.lanqiao.cn/courses/3333/)
 <!-- LATEST:END -->
 
 ### 最热课程
