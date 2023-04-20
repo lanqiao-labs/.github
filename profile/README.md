@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [新网页三剑客练手小案例 [训练营]](https://www.lanqiao.cn/courses/18799/)
 - [Java Web 基础入门 [训练营]](https://www.lanqiao.cn/courses/18807/)
 - [蓝桥杯 Python 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17169/)
 - [蓝桥杯 C&amp;C++ 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17170/)
 - [蓝桥杯 Java 组零基础备赛班 [训练营]](https://www.lanqiao.cn/courses/17171/)
-- [蓝桥杯省赛高频考点集训营 [训练营]](https://www.lanqiao.cn/courses/18397/)
 <!-- LATEST:END -->
 
 ### 最热课程
