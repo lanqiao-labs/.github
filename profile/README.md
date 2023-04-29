@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第十三届蓝桥杯国赛 Web 前端组（大学组） [免费课]](https://www.lanqiao.cn/courses/9788/)
+- [第十三届蓝桥杯国赛真题讲解（单片机组） [训练营]](https://www.lanqiao.cn/courses/10029/)
 - [AIGC-你的编程加速器 [训练营]](https://www.lanqiao.cn/courses/19785/)
 - [蓝桥杯 Python 组国赛特训营（算法提高） [训练营]](https://www.lanqiao.cn/courses/20048/)
 - [蓝桥杯 Java 组国赛特训营（算法提高） [训练营]](https://www.lanqiao.cn/courses/20047/)
-- [蓝桥杯 C&amp;C++ 组国赛特训营（算法提高） [训练营]](https://www.lanqiao.cn/courses/20046/)
-- [Web 漏洞实战：从入门到精通 [训练营]](https://www.lanqiao.cn/courses/3471/)
 <!-- LATEST:END -->
 
 ### 最热课程
