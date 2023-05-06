@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Flutter 零基础入门：从入门到实战一次学会 [训练营]](https://www.lanqiao.cn/courses/2984/)
+- [蓝桥 IT 人才培养项目：Python 开发 [楼+]](https://www.lanqiao.cn/courses/9118/)
 - [第十三届蓝桥杯国赛 Web 前端组（大学组） [免费课]](https://www.lanqiao.cn/courses/9788/)
 - [第十三届蓝桥杯国赛真题讲解（单片机组） [训练营]](https://www.lanqiao.cn/courses/10029/)
 - [AIGC-你的编程加速器 [训练营]](https://www.lanqiao.cn/courses/19785/)
-- [蓝桥杯 Python 组国赛特训营（算法提高） [训练营]](https://www.lanqiao.cn/courses/20048/)
-- [蓝桥杯 Java 组国赛特训营（算法提高） [训练营]](https://www.lanqiao.cn/courses/20047/)
 <!-- LATEST:END -->
 
 ### 最热课程
