@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
 - [Python 加密解密 18 招 [训练营]](https://www.lanqiao.cn/courses/17813/)
 - [Flutter 零基础入门：从入门到实战一次学会 [训练营]](https://www.lanqiao.cn/courses/2984/)
 - [蓝桥 IT 人才培养项目：Python 开发 [楼+]](https://www.lanqiao.cn/courses/9118/)
 - [第十三届蓝桥杯国赛 Web 前端组（大学组） [免费课]](https://www.lanqiao.cn/courses/9788/)
-- [第十三届蓝桥杯国赛真题讲解（单片机组） [训练营]](https://www.lanqiao.cn/courses/10029/)
 <!-- LATEST:END -->
 
 ### 最热课程
