@@ -19,7 +19,7 @@
 - [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
 - [蓝桥杯大赛历届真题 [免费课]](https://www.lanqiao.cn/courses/2786/)
 - [Python 实现图片转字符画 [免费课]](https://www.lanqiao.cn/courses/370/)
-- [Python 新手入门课 [免费课]](https://www.lanqiao.cn/courses/1330/)
+- [Python3 简明教程 [免费课]](https://www.lanqiao.cn/courses/596/)
 <!-- HOTEST:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/lanqiao-courses/.github/actions/workflows/update.yml).
