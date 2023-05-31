@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [OCR 基础入门 [限时免费]](https://www.lanqiao.cn/courses/18885/)
-- [第十三届蓝桥杯国赛 Web 前端组（职业组） [免费课]](https://www.lanqiao.cn/courses/9790/)
-- [Java 基础实战小案例 [训练营]](https://www.lanqiao.cn/courses/18802/)
-- [Python 实战开发 kook 机器人 [会员课]](https://www.lanqiao.cn/courses/18797/)
-- [Python 加密解密 18 招 [训练营]](https://www.lanqiao.cn/courses/17813/)
+- [Vue + Django 前后端问卷平台开发实战 [训练营]](https://www.lanqiao.cn/courses/11086/)
+- [搭建个人博客 [训练营]](https://www.lanqiao.cn/courses/1367/)
+- [Vue.js 3 + Node.js 实现线上聊天室 [训练营]](https://www.lanqiao.cn/courses/3574/)
+- [SpringBoot+Thymeleaf 开发 BBS 论坛 [训练营]](https://www.lanqiao.cn/courses/4830/)
+- [Vue.js 和 Egg.js 开发企业级健康管理项目 [训练营]](https://www.lanqiao.cn/courses/2741/)
 <!-- LATEST:END -->
 
 ### 最热课程
