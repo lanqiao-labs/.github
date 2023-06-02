@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [基于 SSM 开发学生信息管理系统 [训练营]](https://www.lanqiao.cn/courses/8874/)
 - [SpringBoot + Thymeleaf 搭建个人博客 [训练营]](https://www.lanqiao.cn/courses/1367/)
 - [Vue3 + TypeScript 仿简易版蓝桥云课 [训练营]](https://www.lanqiao.cn/courses/1547/)
 - [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
 - [Spring Boot 专栏全栈开发实战 [训练营]](https://www.lanqiao.cn/courses/3228/)
-- [SpringBoot+Thymeleaf 开发 BBS 论坛 [训练营]](https://www.lanqiao.cn/courses/4830/)
 <!-- LATEST:END -->
 
 ### 最热课程
