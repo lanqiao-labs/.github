@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [手撕大厂 SQL，夯实 SQL 功底 [训练营]](https://www.lanqiao.cn/courses/18408/)
 - [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
 - [Spring Boot 企业级商城开发实战 [训练营]](https://www.lanqiao.cn/courses/1537/)
 - [Vue.js 和 Egg.js 开发企业级健康管理项目 [训练营]](https://www.lanqiao.cn/courses/2741/)
 - [暑期特训营：算法基础 [训练营]](https://www.lanqiao.cn/courses/20932/)
-- [蓝桥杯 C&amp;C++ 组国赛特训营（赛前冲刺） [训练营]](https://www.lanqiao.cn/courses/20046/)
 <!-- LATEST:END -->
 
 ### 最热课程
