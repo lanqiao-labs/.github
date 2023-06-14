@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
+- [楼+数据分析与挖掘实训（全新升级） [训练营]](https://www.lanqiao.cn/courses/3604/)
+- [Vue.js 3 + Node.js 实现线上聊天室 [训练营]](https://www.lanqiao.cn/courses/3574/)
+- [Vue.js 和 Egg.js 开发企业级健康管理项目 [训练营]](https://www.lanqiao.cn/courses/2741/)
 - [ROS 机器人操作系统进阶实战 [训练营]](https://www.lanqiao.cn/courses/2947/)
-- [手撕大厂 SQL，夯实 SQL 功底 [训练营]](https://www.lanqiao.cn/courses/18408/)
-- [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
-- [Spring Boot 企业级商城开发实战 [训练营]](https://www.lanqiao.cn/courses/1537/)
-- [暑期特训营：算法基础 [训练营]](https://www.lanqiao.cn/courses/20932/)
 <!-- LATEST:END -->
 
 ### 最热课程
