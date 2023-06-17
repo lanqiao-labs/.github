@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [夏令营：算法特训 [训练营]](https://www.lanqiao.cn/courses/20932/)
 - [楼+ 之通关数学建模竞赛 [训练营]](https://www.lanqiao.cn/courses/3201/)
 - [新网页三剑客进阶 [训练营]](https://www.lanqiao.cn/courses/18776/)
 - [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
 - [楼+数据分析与挖掘实训（全新升级） [训练营]](https://www.lanqiao.cn/courses/3604/)
-- [Vue.js 3 + Node.js 实现线上聊天室 [训练营]](https://www.lanqiao.cn/courses/3574/)
 <!-- LATEST:END -->
 
 ### 最热课程
