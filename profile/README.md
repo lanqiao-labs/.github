@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
+- [AI 驾驭术：ChatGPT x HuggingFace [训练营]](https://www.lanqiao.cn/courses/20132/)
+- [夏令营：数据结构特训（今日免拼） [训练营]](https://www.lanqiao.cn/courses/20995/)
 - [高薪就业指南：先入手掌握 Gin 框架 [训练营]](https://www.lanqiao.cn/courses/12653/)
 - [Kali 渗透测试：Web 应用攻击实战 [训练营]](https://www.lanqiao.cn/courses/717/)
-- [夏令营：算法基础特训 [训练营]](https://www.lanqiao.cn/courses/20932/)
-- [楼+ 之通关数学建模竞赛 [训练营]](https://www.lanqiao.cn/courses/3201/)
+- [夏令营：算法基础特训（今日免拼） [训练营]](https://www.lanqiao.cn/courses/20932/)
 <!-- LATEST:END -->
 
 ### 最热课程
