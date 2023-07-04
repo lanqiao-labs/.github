@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [夏令营：算法基础特训（7月5日开班） [训练营]](https://www.lanqiao.cn/courses/20932/)
 - [前端工程师体系课 [楼+]](https://www.lanqiao.cn/courses/21054/)
 - [Java 工程师体系课 [楼+]](https://www.lanqiao.cn/courses/21053/)
 - [AI 驾驭术：ChatGPT x HuggingFace [训练营]](https://www.lanqiao.cn/courses/20132/)
 - [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
-- [高薪就业指南：先入手掌握 Gin 框架 [训练营]](https://www.lanqiao.cn/courses/12653/)
 <!-- LATEST:END -->
 
 ### 最热课程
