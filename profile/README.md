@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [楼+ 之深度学习实战【全新升级】 [训练营]](https://www.lanqiao.cn/courses/2617/)
+- [楼+ 之机器学习实战 [训练营]](https://www.lanqiao.cn/courses/2616/)
+- [职业生涯规划 [训练营]](https://www.lanqiao.cn/courses/16475/)
 - [夏令营：算法基础特训（7月5日开班） [训练营]](https://www.lanqiao.cn/courses/20932/)
 - [前端工程师体系课 [楼+]](https://www.lanqiao.cn/courses/21054/)
-- [Java 工程师体系课 [楼+]](https://www.lanqiao.cn/courses/21053/)
-- [AI 驾驭术：ChatGPT x HuggingFace [训练营]](https://www.lanqiao.cn/courses/20132/)
-- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
 <!-- LATEST:END -->
 
 ### 最热课程
