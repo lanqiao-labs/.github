@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [夏令营：算法基础特训（7月5日开班） [训练营]](https://www.lanqiao.cn/courses/20932/)
+- [PyTorch 入门与实战（第二版） [训练营]](https://www.lanqiao.cn/courses/1073/)
 - [楼+ 之深度学习实战【全新升级】 [训练营]](https://www.lanqiao.cn/courses/2617/)
 - [楼+ 之机器学习实战 [训练营]](https://www.lanqiao.cn/courses/2616/)
 - [职业生涯规划 [训练营]](https://www.lanqiao.cn/courses/16475/)
-- [夏令营：算法基础特训（7月5日开班） [训练营]](https://www.lanqiao.cn/courses/20932/)
-- [前端工程师体系课 [楼+]](https://www.lanqiao.cn/courses/21054/)
 <!-- LATEST:END -->
 
 ### 最热课程
