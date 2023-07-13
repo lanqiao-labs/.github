@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [提升企业认知，洞悉职场 [训练营]](https://www.lanqiao.cn/courses/20891/)
+- [时间管理术：追求时间极致价值 [训练营]](https://www.lanqiao.cn/courses/20890/)
+- [团队提升大师班：打造卓越团队 [训练营]](https://www.lanqiao.cn/courses/20889/)
+- [演讲技巧：提升自信，成为卓越演讲者 [训练营]](https://www.lanqiao.cn/courses/20888/)
 - [Spark 实现电影推荐系统 [限时免费]](https://www.lanqiao.cn/courses/831/)
-- [基于 PyWebIO 和 PyTorch 的阿尔兹海默智能诊断系统 [训练营]](https://www.lanqiao.cn/courses/20145/)
-- [夏令营：算法基础特训（7月5日开班） [训练营]](https://www.lanqiao.cn/courses/20932/)
-- [PyTorch 入门与实战（第二版） [训练营]](https://www.lanqiao.cn/courses/1073/)
-- [楼+ 之深度学习实战【全新升级】 [训练营]](https://www.lanqiao.cn/courses/2617/)
 <!-- LATEST:END -->
 
 ### 最热课程
