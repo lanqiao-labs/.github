@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯 11～13 届省赛真题解析（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11006/)
+- [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
 - [提升企业认知，洞悉职场 [训练营]](https://www.lanqiao.cn/courses/20891/)
 - [时间管理术：追求时间极致价值 [训练营]](https://www.lanqiao.cn/courses/20890/)
 - [团队提升大师班：打造卓越团队 [训练营]](https://www.lanqiao.cn/courses/20889/)
-- [演讲技巧：提升自信，成为卓越演讲者 [训练营]](https://www.lanqiao.cn/courses/20888/)
-- [Spark 实现电影推荐系统 [限时免费]](https://www.lanqiao.cn/courses/831/)
 <!-- LATEST:END -->
 
 ### 最热课程
