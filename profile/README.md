@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
+- [TCP IP 网络协议基础入门 [免费课]](https://www.lanqiao.cn/courses/98/)
+- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
 - [蓝桥杯 11～13 届省赛真题解析（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11006/)
 - [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
-- [提升企业认知，洞悉职场 [训练营]](https://www.lanqiao.cn/courses/20891/)
-- [时间管理术：追求时间极致价值 [训练营]](https://www.lanqiao.cn/courses/20890/)
-- [团队提升大师班：打造卓越团队 [训练营]](https://www.lanqiao.cn/courses/20889/)
 <!-- LATEST:END -->
 
 ### 最热课程
