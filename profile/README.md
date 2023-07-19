@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [夏令营：数据结构特训（今日免拼） [训练营]](https://www.lanqiao.cn/courses/20995/)
+- [手撕大厂 SQL，夯实 SQL 功底 [训练营]](https://www.lanqiao.cn/courses/18408/)
 - [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
 - [TCP IP 网络协议基础入门 [免费课]](https://www.lanqiao.cn/courses/98/)
 - [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
-- [蓝桥杯 11～13 届省赛真题解析（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11006/)
-- [简历制作技巧 [训练营]](https://www.lanqiao.cn/courses/9286/)
 <!-- LATEST:END -->
 
 ### 最热课程
