@@ -5,7 +5,7 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [夏令营：数据结构特训（今日免拼） [训练营]](https://www.lanqiao.cn/courses/20995/)
+- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
 - [手撕大厂 SQL，夯实 SQL 功底 [训练营]](https://www.lanqiao.cn/courses/18408/)
 - [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
 - [TCP IP 网络协议基础入门 [免费课]](https://www.lanqiao.cn/courses/98/)
