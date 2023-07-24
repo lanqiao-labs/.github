@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
-- [手撕大厂 SQL，夯实 SQL 功底 [训练营]](https://www.lanqiao.cn/courses/18408/)
-- [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
-- [TCP IP 网络协议基础入门 [免费课]](https://www.lanqiao.cn/courses/98/)
-- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
+- [SSM 框架基础入门 [会员课]](https://www.lanqiao.cn/courses/817/)
+- [Python 设计模式详解 [会员课]](https://www.lanqiao.cn/courses/356/)
+- [SQL Server 2019 基础入门 [会员课]](https://www.lanqiao.cn/courses/2703/)
+- [Linux 安装及配置邮件服务器 [会员课]](https://www.lanqiao.cn/courses/612/)
+- [MyBatis 框架基础入门 [会员课]](https://www.lanqiao.cn/courses/802/)
 <!-- LATEST:END -->
 
 ### 最热课程
