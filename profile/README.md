@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [数学建模算法深度解析 [训练营]](https://www.lanqiao.cn/courses/20137/)
+- [楼+ 之通关数学建模竞赛 [训练营]](https://www.lanqiao.cn/courses/3201/)
 - [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
 - [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
 - [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
-- [Python 设计模式详解 [限时免费]](https://www.lanqiao.cn/courses/356/)
-- [SQL Server 2019 基础入门 [限时免费]](https://www.lanqiao.cn/courses/2703/)
 <!-- LATEST:END -->
 
 ### 最热课程
