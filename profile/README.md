@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [夏令营：搜索与数学特训 [训练营]](https://www.lanqiao.cn/courses/21212/)
-- [数学建模算法深度解析 [训练营]](https://www.lanqiao.cn/courses/20137/)
-- [楼+ 之通关数学建模竞赛 [训练营]](https://www.lanqiao.cn/courses/3201/)
-- [应届生面试技巧 [训练营]](https://www.lanqiao.cn/courses/9287/)
-- [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
+- [Java 基于 SSM 实现简历生成 [限时免费]](https://www.lanqiao.cn/courses/875/)
+- [C 语言实现简单聊天室 [限时免费]](https://www.lanqiao.cn/courses/602/)
+- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
+- [Java 实现个人博客网站 [限时免费]](https://www.lanqiao.cn/courses/930/)
+- [基于 Flask 与 MySQL 实现番剧推荐系统 [限时免费]](https://www.lanqiao.cn/courses/633/)
 <!-- LATEST:END -->
 
 ### 最热课程
