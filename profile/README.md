@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Java 基于 SSM 实现简历生成 [限时免费]](https://www.lanqiao.cn/courses/875/)
-- [C 语言实现简单聊天室 [限时免费]](https://www.lanqiao.cn/courses/602/)
-- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
-- [Java 实现个人博客网站 [限时免费]](https://www.lanqiao.cn/courses/930/)
-- [基于 Flask 与 MySQL 实现番剧推荐系统 [限时免费]](https://www.lanqiao.cn/courses/633/)
+- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
+- [SSM 框架基础入门 [会员课]](https://www.lanqiao.cn/courses/817/)
+- [Python 设计模式详解 [会员课]](https://www.lanqiao.cn/courses/356/)
+- [SQL Server 2019 基础入门 [会员课]](https://www.lanqiao.cn/courses/2703/)
+- [Linux 安装及配置邮件服务器 [会员课]](https://www.lanqiao.cn/courses/612/)
 <!-- LATEST:END -->
 
 ### 最热课程
