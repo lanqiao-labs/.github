@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Unity 入门指南：从凡人到修仙者 [训练营]](https://www.lanqiao.cn/courses/20552/)
 - [Java Web 三级跳：SSM，SpringBoot 与前后端分离 [训练营]](https://www.lanqiao.cn/courses/1405/)
 - [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
 - [SSM 框架基础入门 [会员课]](https://www.lanqiao.cn/courses/817/)
 - [Python 设计模式详解 [会员课]](https://www.lanqiao.cn/courses/356/)
-- [SQL Server 2019 基础入门 [会员课]](https://www.lanqiao.cn/courses/2703/)
 <!-- LATEST:END -->
 
 ### 最热课程
