@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [快速开发 Django 博客系统 [训练营]](https://www.lanqiao.cn/courses/3326/)
+- [SpringBoot + Vue 打造大病保险管理系统 [训练营]](https://www.lanqiao.cn/courses/9099/)
 - [Python 实现搜索引擎 [训练营]](https://www.lanqiao.cn/courses/1196/)
 - [Unity 入门指南：从凡人到修仙者 [训练营]](https://www.lanqiao.cn/courses/20552/)
 - [Java Web 三级跳：SSM，SpringBoot 与前后端分离 [训练营]](https://www.lanqiao.cn/courses/1405/)
-- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
-- [SSM 框架基础入门 [会员课]](https://www.lanqiao.cn/courses/817/)
 <!-- LATEST:END -->
 
 ### 最热课程
