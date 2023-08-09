@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [ChatGPT&amp;AI 绘画实践 [训练营]](https://www.lanqiao.cn/courses/19824/)
+- [基于 Flask 与 MySQL 实现番剧推荐系统 [限时免费]](https://www.lanqiao.cn/courses/633/)
 - [OpenCV 实现面部特征交换 [限时免费]](https://www.lanqiao.cn/courses/686/)
 - [C 语言实现文件类型统计 [限时免费]](https://www.lanqiao.cn/courses/582/)
 - [Vue 3 + Element Plus 实现简易 TodoList [限时免费]](https://www.lanqiao.cn/courses/3896/)
-- [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
-- [Python 自动化测试实战 [限时免费]](https://www.lanqiao.cn/courses/1163/)
 <!-- LATEST:END -->
 
 ### 最热课程
