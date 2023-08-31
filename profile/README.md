@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [快速掌握接口测试：Postman 实用技巧解析 [训练营]](https://www.lanqiao.cn/courses/20983/)
 - [基于 Spring Boot 快速实现收银系统 [训练营]](https://www.lanqiao.cn/courses/18796/)
 - [从零开始打造 Online Judge [训练营]](https://www.lanqiao.cn/courses/20638/)
 - [数学建模21天冲刺营 [训练营]](https://www.lanqiao.cn/courses/20137/)
 - [Go 语言实现缓存系统 [会员课]](https://www.lanqiao.cn/courses/504/)
-- [Python 实战开发 kook 机器人 [会员课]](https://www.lanqiao.cn/courses/18797/)
 <!-- LATEST:END -->
 
 ### 最热课程
