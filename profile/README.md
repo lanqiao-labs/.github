@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [快速掌握接口测试：Postman 实用技巧解析 [训练营]](https://www.lanqiao.cn/courses/20983/)
-- [基于 Spring Boot 快速实现收银系统 [训练营]](https://www.lanqiao.cn/courses/18796/)
-- [从零开始打造 Online Judge [训练营]](https://www.lanqiao.cn/courses/20638/)
-- [数学建模21天冲刺营 [训练营]](https://www.lanqiao.cn/courses/20137/)
-- [Go 语言实现缓存系统 [会员课]](https://www.lanqiao.cn/courses/504/)
+- [蓝桥工业和信息化人才培养项目：Java 全栈开发（高级） [楼+]](https://www.lanqiao.cn/courses/9115/)
+- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
+- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥工业和信息化人才培养项目：Python 开发（高级） [楼+]](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥工业和信息化人才培养项目：大数据开发（高级） [楼+]](https://www.lanqiao.cn/courses/9119/)
 <!-- LATEST:END -->
 
 ### 最热课程
