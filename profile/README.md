@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [新网页三剑客进阶 [训练营]](https://www.lanqiao.cn/courses/18776/)
-- [图论算法理论、实现及应用 [限时免费]](https://www.lanqiao.cn/courses/9039/)
-- [数学建模算法深度解析 [训练营]](https://www.lanqiao.cn/courses/20137/)
-- [第十四届蓝桥杯（软件测试）真题解析 [免费课]](https://www.lanqiao.cn/courses/21052/)
-- [蓝桥工业和信息化人才培养项目：Java 全栈开发（高级） [楼+]](https://www.lanqiao.cn/courses/9115/)
+- [蓝桥杯直通国赛班（Web应用开发 职业组） [训练营]](https://www.lanqiao.cn/courses/21281/)
+- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
+- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21965/)
+- [蓝桥杯省赛无忧班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21960/)
+- [蓝桥杯省赛无忧班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21956/)
 <!-- LATEST:END -->
 
 ### 最热课程
