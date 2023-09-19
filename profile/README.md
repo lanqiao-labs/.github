@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第十四届蓝桥杯（软件测试）真题解析 [免费课]](https://www.lanqiao.cn/courses/22384/)
+- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
 - [蓝桥杯直通国赛班（Web应用开发 职业组） [训练营]](https://www.lanqiao.cn/courses/21281/)
 - [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
 - [蓝桥杯省赛无忧班（C&amp;C++ 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21965/)
-- [蓝桥杯省赛无忧班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21960/)
-- [蓝桥杯省赛无忧班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21956/)
 <!-- LATEST:END -->
 
 ### 最热课程
