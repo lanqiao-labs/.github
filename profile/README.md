@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Rust 实战起步：10 个案例解读 [训练营]](https://www.lanqiao.cn/courses/20591/)
+- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
+- [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
+- [蓝桥杯直通国赛班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23276/)
+- [邹会来算法精讲课（Java 版） [训练营]](https://www.lanqiao.cn/courses/17171/)
 - [周娟算法精讲课（C&amp;C++ 版） [训练营]](https://www.lanqiao.cn/courses/17170/)
-- [罗勇军算法精讲课（Python 版） [训练营]](https://www.lanqiao.cn/courses/17169/)
-- [第十四届蓝桥杯（软件测试）真题解析 [免费课]](https://www.lanqiao.cn/courses/22384/)
-- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
 <!-- LATEST:END -->
 
 ### 最热课程
