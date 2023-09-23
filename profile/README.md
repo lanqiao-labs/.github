@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Vue.js 基础入门 [免费课]](https://www.lanqiao.cn/courses/1262/)
+- [Linux 内核分析配套实验 [免费课]](https://www.lanqiao.cn/courses/195/)
 - [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
 - [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
 - [蓝桥杯直通国赛班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23276/)
-- [邹会来算法精讲课（Java 版） [训练营]](https://www.lanqiao.cn/courses/17171/)
-- [周娟算法精讲课（C&amp;C++ 版） [训练营]](https://www.lanqiao.cn/courses/17170/)
 <!-- LATEST:END -->
 
 ### 最热课程
