@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Codeforces 热门赛题解析 204 讲 [训练营]](https://www.lanqiao.cn/courses/23406/)
-- [Vue.js 基础入门 [免费课]](https://www.lanqiao.cn/courses/1262/)
-- [Linux 内核分析配套实验 [免费课]](https://www.lanqiao.cn/courses/195/)
-- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
+- [蓝桥杯直通国赛班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23276/)
 - [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
+- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
+- [蓝桥杯省赛无忧班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21960/)
+- [蓝桥杯省赛无忧班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/21956/)
 <!-- LATEST:END -->
 
 ### 最热课程
