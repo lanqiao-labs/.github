@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第 11～14 届蓝桥杯省赛真题解析（单片机组） [训练营]](https://www.lanqiao.cn/courses/21838/)
 - [从零开始打造 Online Judge [训练营]](https://www.lanqiao.cn/courses/20638/)
 - [Vue3 + TypeScript 仿简易版蓝桥云课 [训练营]](https://www.lanqiao.cn/courses/1547/)
 - [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
 - [Spring Boot 专栏全栈开发实战 [训练营]](https://www.lanqiao.cn/courses/3228/)
-- [SpringBoot+Thymeleaf 开发 BBS 论坛 [训练营]](https://www.lanqiao.cn/courses/4830/)
 <!-- LATEST:END -->
 
 ### 最热课程
