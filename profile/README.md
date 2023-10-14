@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [第 11～14 届蓝桥杯省赛真题解析（单片机组） [训练营]](https://www.lanqiao.cn/courses/21838/)
-- [从零开始打造 Online Judge [训练营]](https://www.lanqiao.cn/courses/20638/)
-- [Vue3 + TypeScript 仿简易版蓝桥云课 [训练营]](https://www.lanqiao.cn/courses/1547/)
-- [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
-- [Spring Boot 专栏全栈开发实战 [训练营]](https://www.lanqiao.cn/courses/3228/)
+- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
+- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
+- [Python 实现图像形态学处理 [限时免费]](https://www.lanqiao.cn/courses/1131/)
+- [C++ 实现课程管理系统 [限时免费]](https://www.lanqiao.cn/courses/1052/)
+- [动手学深度学习 Dive into Deep Learning [限时免费]](https://www.lanqiao.cn/courses/2777/)
 <!-- LATEST:END -->
 
 ### 最热课程
