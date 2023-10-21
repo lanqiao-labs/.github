@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯直通国赛班（软件测试组） [免费课]](https://www.lanqiao.cn/courses/21278/)
-- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
-- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
-- [Python 实现图像形态学处理 [限时免费]](https://www.lanqiao.cn/courses/1131/)
-- [C++ 实现课程管理系统 [限时免费]](https://www.lanqiao.cn/courses/1052/)
+- [15届蓝桥杯备赛公开课回放 [免费课]](https://www.lanqiao.cn/courses/23642/)
+- [第 11～14 届蓝桥杯省赛真题解析（单片机组） [训练营]](https://www.lanqiao.cn/courses/21838/)
+- [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
+- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
+- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
 <!-- LATEST:END -->
 
 ### 最热课程
