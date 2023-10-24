@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
+- [蓝桥工业和信息化人才培养项目：Python 开发（高级） [楼+]](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥工业和信息化人才培养项目：Java 全栈开发（高级） [楼+]](https://www.lanqiao.cn/courses/9115/)
 - [15届蓝桥杯备赛公开课回放 [免费课]](https://www.lanqiao.cn/courses/23642/)
-- [第 11～14 届蓝桥杯省赛真题解析（单片机组） [训练营]](https://www.lanqiao.cn/courses/21838/)
-- [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
-- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
-- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
 <!-- LATEST:END -->
 
 ### 最热课程
