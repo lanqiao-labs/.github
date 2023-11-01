@@ -5,9 +5,9 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 2 期 [训练营]](https://www.lanqiao.cn/courses/21966/)
-- [蓝桥杯省赛无忧班（Java 组）第 2 期 [训练营]](https://www.lanqiao.cn/courses/21957/)
 - [蓝桥杯省赛无忧班（Python 组）第 2 期 [训练营]](https://www.lanqiao.cn/courses/21961/)
+- [蓝桥杯省赛无忧班（Java 组）第 2 期 [训练营]](https://www.lanqiao.cn/courses/21957/)
+- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 2 期 [训练营]](https://www.lanqiao.cn/courses/21966/)
 - [13～14届 蓝桥杯国赛真题解析课（单片机组） [训练营]](https://www.lanqiao.cn/courses/21839/)
 - [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
 <!-- LATEST:END -->
