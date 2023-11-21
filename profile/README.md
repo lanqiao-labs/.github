@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [光通信原理及应用实践 [训练营]](https://www.lanqiao.cn/courses/21955/)
-- [智能硬件设计与开发 [训练营]](https://www.lanqiao.cn/courses/21902/)
-- [物联网长距离无线通信技术 [训练营]](https://www.lanqiao.cn/courses/21896/)
-- [物联网短距离无线通信技术 [训练营]](https://www.lanqiao.cn/courses/22185/)
-- [嵌入式接口技术 [训练营]](https://www.lanqiao.cn/courses/21895/)
+- [蓝桥工业和信息化人才培养项目：大数据开发（高级） [楼+]](https://www.lanqiao.cn/courses/9119/)
+- [蓝桥工业和信息化人才培养项目：系统运维（高级） [楼+]](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
+- [蓝桥工业和信息化人才培养项目：Python 开发（高级） [楼+]](https://www.lanqiao.cn/courses/9118/)
 <!-- LATEST:END -->
 
 ### 最热课程
