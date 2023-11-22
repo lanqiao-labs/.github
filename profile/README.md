@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥工业和信息化人才培养项目：大数据开发（高级） [楼+]](https://www.lanqiao.cn/courses/9119/)
-- [蓝桥工业和信息化人才培养项目：系统运维（高级） [楼+]](https://www.lanqiao.cn/courses/9120/)
-- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
-- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
-- [蓝桥工业和信息化人才培养项目：Python 开发（高级） [楼+]](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
+- [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
+- [Python 设计模式详解 [限时免费]](https://www.lanqiao.cn/courses/356/)
+- [SQL Server 2019 基础入门 [限时免费]](https://www.lanqiao.cn/courses/2703/)
+- [Linux 安装及配置邮件服务器 [限时免费]](https://www.lanqiao.cn/courses/612/)
 <!-- LATEST:END -->
 
 ### 最热课程
