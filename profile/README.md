@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯直通国赛班（单片机组） [训练营]](https://www.lanqiao.cn/courses/24680/)
+- [蓝桥杯省赛无忧班（Java 组）第 3 期 [训练营]](https://www.lanqiao.cn/courses/21958/)
+- [蓝桥杯省赛无忧班（Python 组）第 3 期 [训练营]](https://www.lanqiao.cn/courses/21962/)
+- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 3 期 [训练营]](https://www.lanqiao.cn/courses/21967/)
 - [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
-- [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
-- [Python 设计模式详解 [限时免费]](https://www.lanqiao.cn/courses/356/)
-- [SQL Server 2019 基础入门 [限时免费]](https://www.lanqiao.cn/courses/2703/)
-- [Linux 安装及配置邮件服务器 [限时免费]](https://www.lanqiao.cn/courses/612/)
 <!-- LATEST:END -->
 
 ### 最热课程
