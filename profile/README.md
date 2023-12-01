@@ -5,10 +5,10 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯直通国赛班（单片机组） [训练营]](https://www.lanqiao.cn/courses/24680/)
 - [蓝桥杯直通国赛班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23276/)
 - [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
 - [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
-- [蓝桥杯直通国赛班（单片机组） [训练营]](https://www.lanqiao.cn/courses/24680/)
 - [竞态条件漏洞实验 [免费课]](https://www.lanqiao.cn/courses/249/)
 <!-- LATEST:END -->
 
