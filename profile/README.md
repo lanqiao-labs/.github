@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯直通国赛班（单片机组） [训练营]](https://www.lanqiao.cn/courses/24680/)
-- [蓝桥杯直通国赛班（Python 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23276/)
-- [蓝桥杯直通国赛班（Java 组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23272/)
-- [蓝桥杯直通国赛班（C&amp;C++组）第 1 期 [训练营]](https://www.lanqiao.cn/courses/23268/)
-- [竞态条件漏洞实验 [免费课]](https://www.lanqiao.cn/courses/249/)
+- [OpenCV 实现面部特征交换 [限时免费]](https://www.lanqiao.cn/courses/686/)
+- [C 语言实现文件类型统计 [限时免费]](https://www.lanqiao.cn/courses/582/)
+- [Vue 3 + Element Plus 实现简易 TodoList [限时免费]](https://www.lanqiao.cn/courses/3896/)
+- [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
+- [Python 自动化测试实战 [限时免费]](https://www.lanqiao.cn/courses/1163/)
 <!-- LATEST:END -->
 
 ### 最热课程
