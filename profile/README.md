@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [OpenCV 实现面部特征交换 [限时免费]](https://www.lanqiao.cn/courses/686/)
-- [C 语言实现文件类型统计 [限时免费]](https://www.lanqiao.cn/courses/582/)
-- [Vue 3 + Element Plus 实现简易 TodoList [限时免费]](https://www.lanqiao.cn/courses/3896/)
-- [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
-- [Python 自动化测试实战 [限时免费]](https://www.lanqiao.cn/courses/1163/)
+- [蓝桥工业和信息化人才培养项目：系统运维（高级） [楼+]](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
+- [蓝桥工业和信息化人才培养项目：Python 开发（高级） [楼+]](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥工业和信息化人才培养项目：Java 全栈开发（高级） [楼+]](https://www.lanqiao.cn/courses/9115/)
 <!-- LATEST:END -->
 
 ### 最热课程
