@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [动手实战学 Docker [训练营]](https://www.lanqiao.cn/courses/498/)
-- [Hadoop 核心组件基础实战 [训练营]](https://www.lanqiao.cn/courses/1136/)
-- [Uni-app+ChatGPT 小程序开发实战 [训练营]](https://www.lanqiao.cn/courses/25091/)
-- [第十五届蓝桥杯（软件测试）模拟赛 1 期题目 [免费课]](https://www.lanqiao.cn/courses/21969/)
-- [蓝桥工业和信息化人才培养项目：系统运维（高级） [楼+]](https://www.lanqiao.cn/courses/9120/)
+- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
+- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
+- [Python 实现图像形态学处理 [限时免费]](https://www.lanqiao.cn/courses/1131/)
+- [C++ 实现课程管理系统 [限时免费]](https://www.lanqiao.cn/courses/1052/)
+- [动手学深度学习 Dive into Deep Learning [限时免费]](https://www.lanqiao.cn/courses/2777/)
 <!-- LATEST:END -->
 
 ### 最热课程
