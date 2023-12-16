@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯省赛无忧班（Python 组）第 3 期 [训练营]](https://www.lanqiao.cn/courses/21962/)
-- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
-- [蓝桥杯直通国赛班（Web应用开发 职业组） [训练营]](https://www.lanqiao.cn/courses/21281/)
-- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
-- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
+- [Selenium 自动化测试 [训练营]](https://www.lanqiao.cn/courses/29292/)
+- [LoadRunner 性能测试 [训练营]](https://www.lanqiao.cn/courses/29225/)
+- [移动端自动化测试 [训练营]](https://www.lanqiao.cn/courses/29226/)
+- [接口自动化测试 [训练营]](https://www.lanqiao.cn/courses/29227/)
+- [软件测试基础 [训练营]](https://www.lanqiao.cn/courses/29228/)
 <!-- LATEST:END -->
 
 ### 最热课程
