@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [第14届蓝桥杯真题解析课（软件测试组） [免费课]](https://www.lanqiao.cn/courses/21052/)
+- [第 15 届蓝桥杯人工智能组直通国赛班 [免费课]](https://www.lanqiao.cn/courses/29224/)
 - [系统架构设计师（软考高级） [楼+]](https://www.lanqiao.cn/courses/28220/)
 - [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
 - [Java 小游戏-会飞的小鸟 [训练营]](https://www.lanqiao.cn/courses/28260/)
-- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21968/)
-- [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
 <!-- LATEST:END -->
 
 ### 最热课程
