@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥 IT 人才培养：Python 工程师体系 [训练营]](https://www.lanqiao.cn/courses/29231/)
 - [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
 - [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
 - [蓝桥杯省赛无忧班（C&amp;C++ 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21968/)
 - [第14届蓝桥杯真题解析课（软件测试组） [免费课]](https://www.lanqiao.cn/courses/21052/)
+- [第 15 届蓝桥杯人工智能组直通国赛班 [免费课]](https://www.lanqiao.cn/courses/29224/)
 <!-- LATEST:END -->
 
 ### 最热课程
