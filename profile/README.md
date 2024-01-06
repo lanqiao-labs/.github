@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
 - [玩转音频分类 [训练营]](https://www.lanqiao.cn/courses/21156/)
 - [Java 小游戏-会飞的小鸟 [训练营]](https://www.lanqiao.cn/courses/28260/)
 - [英数基础冲刺班：轻松拿下专升本 [训练营]](https://www.lanqiao.cn/courses/29635/)
 - [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
-- [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
 <!-- LATEST:END -->
 
 ### 最热课程
