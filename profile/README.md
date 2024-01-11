@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
-- [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
-- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21968/)
-- [蓝桥杯直通国赛班（Web应用开发 大学组） [训练营]](https://www.lanqiao.cn/courses/21282/)
-- [玩转音频分类 [训练营]](https://www.lanqiao.cn/courses/21156/)
+- [React18 核心语法快速入门 [训练营]](https://www.lanqiao.cn/courses/28071/)
+- [AI辅助编程:人工智能时代的编程助手 [训练营]](https://www.lanqiao.cn/courses/25958/)
+- [春招急救指南：前端开发 [训练营]](https://www.lanqiao.cn/courses/4452/)
+- [春招急救指南：Java 开发 [训练营]](https://www.lanqiao.cn/courses/5663/)
+- [春招急救指南：Python 开发 [训练营]](https://www.lanqiao.cn/courses/18291/)
 <!-- LATEST:END -->
 
 ### 最热课程
