@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [React18 核心语法快速入门 [训练营]](https://www.lanqiao.cn/courses/28071/)
-- [AI辅助编程:人工智能时代的编程助手 [训练营]](https://www.lanqiao.cn/courses/25958/)
-- [春招急救指南：前端开发 [训练营]](https://www.lanqiao.cn/courses/4452/)
-- [春招急救指南：Java 开发 [训练营]](https://www.lanqiao.cn/courses/5663/)
-- [春招急救指南：Python 开发 [训练营]](https://www.lanqiao.cn/courses/18291/)
+- [SSM 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/817/)
+- [Python 设计模式详解 [限时免费]](https://www.lanqiao.cn/courses/356/)
+- [SQL Server 2019 基础入门 [限时免费]](https://www.lanqiao.cn/courses/2703/)
+- [Linux 安装及配置邮件服务器 [限时免费]](https://www.lanqiao.cn/courses/612/)
+- [MyBatis 框架基础入门 [限时免费]](https://www.lanqiao.cn/courses/802/)
 <!-- LATEST:END -->
 
 ### 最热课程
