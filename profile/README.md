@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [DevOps工程实战 [训练营]](https://www.lanqiao.cn/courses/26204/)
-- [蓝桥杯直通国赛班（5G全网建设与规划理论基础） [免费课]](https://www.lanqiao.cn/courses/30578/)
-- [Codeforces 每期题解（难题除外） [免费课]](https://www.lanqiao.cn/courses/29902/)
-- [蓝桥工业和信息化人才培养项目：软件测试（高级） [楼+]](https://www.lanqiao.cn/courses/9117/)
-- [蓝桥工业和信息化人才培养项目：Web 应用开发（高级） [楼+]](https://www.lanqiao.cn/courses/9116/)
+- [ShellShock 攻击实验 [免费课]](https://www.lanqiao.cn/courses/230/)
+- [密钥加解密实验 [免费课]](https://www.lanqiao.cn/courses/241/)
+- [单向哈希函数与 MAC 实验 [免费课]](https://www.lanqiao.cn/courses/242/)
+- [公钥加密与 PKI 实验 [免费课]](https://www.lanqiao.cn/courses/243/)
+- [Collabtive 系统跨站请求伪造攻击实验 [免费课]](https://www.lanqiao.cn/courses/281/)
 <!-- LATEST:END -->
 
 ### 最热课程
