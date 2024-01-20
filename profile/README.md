@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [ShellShock 攻击实验 [免费课]](https://www.lanqiao.cn/courses/230/)
-- [密钥加解密实验 [免费课]](https://www.lanqiao.cn/courses/241/)
-- [单向哈希函数与 MAC 实验 [免费课]](https://www.lanqiao.cn/courses/242/)
-- [公钥加密与 PKI 实验 [免费课]](https://www.lanqiao.cn/courses/243/)
-- [Collabtive 系统跨站请求伪造攻击实验 [免费课]](https://www.lanqiao.cn/courses/281/)
+- [Vue.js 3 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2495/)
+- [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
+- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
+- [Python 实现常见数据结构 [限时免费]](https://www.lanqiao.cn/courses/1265/)
+- [Java 基于 SSM 实现简历生成 [限时免费]](https://www.lanqiao.cn/courses/875/)
 <!-- LATEST:END -->
 
 ### 最热课程
