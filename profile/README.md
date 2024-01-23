@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
+- [单元测试专项练习（Java+Python） [免费课]](https://www.lanqiao.cn/courses/31310/)
+- [蓝桥杯单片机组备赛夺奖宝典 [训练营]](https://www.lanqiao.cn/courses/9758/)
 - [Vue.js 3 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2495/)
 - [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
-- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
-- [Python 实现常见数据结构 [限时免费]](https://www.lanqiao.cn/courses/1265/)
-- [Java 基于 SSM 实现简历生成 [限时免费]](https://www.lanqiao.cn/courses/875/)
 <!-- LATEST:END -->
 
 ### 最热课程
