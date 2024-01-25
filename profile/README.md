@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [C++ 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2752/)
-- [单元测试专项练习（Java+Python） [免费课]](https://www.lanqiao.cn/courses/31310/)
-- [蓝桥杯单片机组备赛夺奖宝典 [训练营]](https://www.lanqiao.cn/courses/9758/)
-- [Vue.js 3 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2495/)
-- [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
+- [智能硬件设计与开发 [训练营]](https://www.lanqiao.cn/courses/25631/)
+- [物联网工程项目设计与实施 [训练营]](https://www.lanqiao.cn/courses/25630/)
+- [物联网 Android 应用技术 [训练营]](https://www.lanqiao.cn/courses/25629/)
+- [物联网 Web 应用技术 [训练营]](https://www.lanqiao.cn/courses/25628/)
+- [物联网长距离无线通信技术 [训练营]](https://www.lanqiao.cn/courses/25627/)
 <!-- LATEST:END -->
 
 ### 最热课程
