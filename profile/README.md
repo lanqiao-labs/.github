@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [大数据：用户画像案例实战精讲 [训练营]](https://www.lanqiao.cn/courses/21075/)
-- [智能硬件设计与开发 [训练营]](https://www.lanqiao.cn/courses/25631/)
-- [物联网工程项目设计与实施 [训练营]](https://www.lanqiao.cn/courses/25630/)
-- [物联网 Android 应用技术 [训练营]](https://www.lanqiao.cn/courses/25629/)
-- [物联网 Web 应用技术 [训练营]](https://www.lanqiao.cn/courses/25628/)
+- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
+- [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
+- [OpenCV 实现面部特征交换 [限时免费]](https://www.lanqiao.cn/courses/686/)
+- [C 语言实现文件类型统计 [限时免费]](https://www.lanqiao.cn/courses/582/)
+- [Vue 3 + Element Plus 实现简易 TodoList [限时免费]](https://www.lanqiao.cn/courses/3896/)
 <!-- LATEST:END -->
 
 ### 最热课程
