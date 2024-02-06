@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [从零开发在线招聘系统 [训练营]](https://www.lanqiao.cn/courses/21123/)
-- [15 届蓝桥杯 14 天省赛冲刺营 1 期 [训练营]](https://www.lanqiao.cn/courses/31015/)
-- [专升本：17天通关冲刺营 [训练营]](https://www.lanqiao.cn/courses/29635/)
-- [夏令营：数据结构特训 [训练营]](https://www.lanqiao.cn/courses/20995/)
-- [夏令营：动态规划特训 [训练营]](https://www.lanqiao.cn/courses/21155/)
+- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
+- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
+- [Python 实现图像形态学处理 [限时免费]](https://www.lanqiao.cn/courses/1131/)
+- [C++ 实现课程管理系统 [限时免费]](https://www.lanqiao.cn/courses/1052/)
+- [动手学深度学习 Dive into Deep Learning [限时免费]](https://www.lanqiao.cn/courses/2777/)
 <!-- LATEST:END -->
 
 ### 最热课程
