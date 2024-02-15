@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Python 实战开发 kook 机器人 [限时免费]](https://www.lanqiao.cn/courses/18797/)
-- [Django 打造文件分享系统 [限时免费]](https://www.lanqiao.cn/courses/993/)
-- [Python 实现图像形态学处理 [限时免费]](https://www.lanqiao.cn/courses/1131/)
-- [C++ 实现课程管理系统 [限时免费]](https://www.lanqiao.cn/courses/1052/)
-- [动手学深度学习 Dive into Deep Learning [限时免费]](https://www.lanqiao.cn/courses/2777/)
+- [Python 实战开发 kook 机器人 [会员课]](https://www.lanqiao.cn/courses/18797/)
+- [Django 打造文件分享系统 [会员课]](https://www.lanqiao.cn/courses/993/)
+- [Python 实现图像形态学处理 [会员课]](https://www.lanqiao.cn/courses/1131/)
+- [C++ 实现课程管理系统 [会员课]](https://www.lanqiao.cn/courses/1052/)
+- [动手学深度学习 Dive into Deep Learning [会员课]](https://www.lanqiao.cn/courses/2777/)
 <!-- LATEST:END -->
 
 ### 最热课程
