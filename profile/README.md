@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [Javascript 开发打字游戏 [训练营]](https://www.lanqiao.cn/courses/31256/)
-- [专升本：17天通关冲刺营 [训练营]](https://www.lanqiao.cn/courses/29635/)
-- [15 届蓝桥杯 14 天省赛冲刺营 1 期 [训练营]](https://www.lanqiao.cn/courses/31015/)
-- [Python 实战开发 kook 机器人 [会员课]](https://www.lanqiao.cn/courses/18797/)
-- [Django 打造文件分享系统 [会员课]](https://www.lanqiao.cn/courses/993/)
+- [Java 实现日记写作软件 [会员课]](https://www.lanqiao.cn/courses/260/)
+- [Django 实现问答社区 [训练营]](https://www.lanqiao.cn/courses/1181/)
+- [从零开发在线招聘系统 [训练营]](https://www.lanqiao.cn/courses/21123/)
+- [Java 新手入门课 [免费课]](https://www.lanqiao.cn/courses/3821/)
+- [Python 机器学习玩转 Flappy Bird 游戏 [训练营]](https://www.lanqiao.cn/courses/1162/)
 <!-- LATEST:END -->
 
 ### 最热课程
