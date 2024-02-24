@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [5G全网规划与建设实训教学资料 [免费课]](https://www.lanqiao.cn/courses/33513/)
-- [14 届蓝桥杯省赛冲刺营 [训练营]](https://www.lanqiao.cn/courses/18397/)
-- [14 届蓝桥杯国赛特训营（Python 组） [训练营]](https://www.lanqiao.cn/courses/20048/)
-- [14 届蓝桥杯国赛特训营（ Java 组） [训练营]](https://www.lanqiao.cn/courses/20047/)
+- [13 届蓝桥杯国赛14 天夺奖特训营 [训练营]](https://www.lanqiao.cn/courses/5194/)
 - [14 届蓝桥杯国赛特训营（ C&amp;C++ 组） [训练营]](https://www.lanqiao.cn/courses/20046/)
+- [14 届蓝桥杯国赛特训营（ Java 组） [训练营]](https://www.lanqiao.cn/courses/20047/)
+- [14 届蓝桥杯国赛特训营（Python 组） [训练营]](https://www.lanqiao.cn/courses/20048/)
+- [14 届蓝桥杯省赛冲刺营 [训练营]](https://www.lanqiao.cn/courses/18397/)
 <!-- LATEST:END -->
 
 ### 最热课程
