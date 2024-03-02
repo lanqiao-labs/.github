@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯省赛无忧班（C&amp;C++ 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21968/)
+- [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
+- [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
+- [15届蓝桥杯 14 天省赛冲刺营 2期 [训练营]](https://www.lanqiao.cn/courses/31016/)
 - [15 届蓝桥杯 14 天省赛冲刺营 1 期 [训练营]](https://www.lanqiao.cn/courses/31015/)
-- [自媒体时代：AI 智能创作 [训练营]](https://www.lanqiao.cn/courses/33084/)
-- [图论算法理论、实现及应用 [会员课]](https://www.lanqiao.cn/courses/9039/)
-- [Codeforces 往期赛题解析（C&amp;C++ 版） [免费课]](https://www.lanqiao.cn/courses/29902/)
-- [Codeforces 热门赛题解析 204 讲 [训练营]](https://www.lanqiao.cn/courses/23406/)
 <!-- LATEST:END -->
 
 ### 最热课程
