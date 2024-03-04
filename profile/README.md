@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Java 设计模式详解 [限时免费]](https://www.lanqiao.cn/courses/100/)
 - [蓝桥杯省赛无忧班（C&amp;C++ 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21968/)
 - [蓝桥杯省赛无忧班（Java 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21959/)
 - [蓝桥杯省赛无忧班（Python 组）第 4 期 [训练营]](https://www.lanqiao.cn/courses/21963/)
 - [15届蓝桥杯 14 天省赛冲刺营 2期 [训练营]](https://www.lanqiao.cn/courses/31016/)
-- [15 届蓝桥杯 14 天省赛冲刺营 1 期 [训练营]](https://www.lanqiao.cn/courses/31015/)
 <!-- LATEST:END -->
 
 ### 最热课程
