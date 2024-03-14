@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [考研计算机408基础课程 [训练营]](https://www.lanqiao.cn/courses/34349/)
+- [15届蓝桥杯14天省赛冲刺营2期（最后1期） [训练营]](https://www.lanqiao.cn/courses/31016/)
 - [软件设计师（软考中级） [楼+]](https://www.lanqiao.cn/courses/29973/)
 - [Vue.js 3 基础入门实战 [限时免费]](https://www.lanqiao.cn/courses/2495/)
 - [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
-- [React 基础入门 [限时免费]](https://www.lanqiao.cn/courses/1275/)
-- [Python 实现常见数据结构 [限时免费]](https://www.lanqiao.cn/courses/1265/)
 <!-- LATEST:END -->
 
 ### 最热课程
